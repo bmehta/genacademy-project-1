@@ -1,0 +1,1801 @@
+date,rating,category,review
+2025-10-01,4,Charger,"Love it, using it every day."
+2025-10-01,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2025-10-01,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-10-01,5,Speaker,"Love it, using it every day."
+2025-10-01,5,Speaker,"Love it, using it every day."
+2025-10-01,4,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-10-02,5,Headphones,"Excellent value for the price, would buy again."
+2025-10-02,5,Smart Watch,"Customer support answered fast and fixed my question. Love it, using it every day."
+2025-10-02,5,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2025-10-03,4,Headphones,Setup was easy and it feels well built.
+2025-10-03,5,Charger,Great sound quality and very comfortable.
+2025-10-03,5,Speaker,"Exactly as described, works perfectly."
+2025-10-04,5,Charger,"Exactly as described, works perfectly."
+2025-10-04,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-10-04,4,Smart Watch,"Love it, using it every day."
+2025-10-04,5,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2025-10-04,5,Smart Watch,"Setup was easy and it feels well built. Love it, using it every day."
+2025-10-05,5,Headphones,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2025-10-05,4,Headphones,Customer support answered fast and fixed my question.
+2025-10-05,2,Headphones,Build quality is poor and the buttons stick.
+2025-10-05,5,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2025-10-05,3,Charger,Average quality for the price.
+2025-10-05,1,Smart Watch,"Stopped working after a month, feels cheap."
+2025-10-05,5,Speaker,Great sound quality and very comfortable.
+2025-10-05,2,Speaker,"Stopped working after a month, feels cheap."
+2025-10-06,4,Headphones,Customer support answered fast and fixed my question.
+2025-10-06,4,Headphones,"Love it, using it every day."
+2025-10-06,5,Smart Watch,"Love it, using it every day."
+2025-10-07,5,Smart Watch,"Love it, using it every day."
+2025-10-07,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-10-07,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-10-07,5,Speaker,Setup was easy and it feels well built.
+2025-10-07,3,Charger,"Decent product, a few small annoyances."
+2025-10-07,5,Charger,"Love it, using it every day. Setup was easy and it feels well built."
+2025-10-07,3,Smart Watch,"Decent product, a few small annoyances."
+2025-10-07,1,Charger,The strap broke within weeks.
+2025-10-08,1,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2025-10-08,5,Smart Watch,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-10-08,5,Speaker,"Excellent value for the price, would buy again."
+2025-10-08,2,Headphones,Support never replied to my emails.
+2025-10-09,4,Speaker,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2025-10-09,2,Speaker,"Stopped working after a month, feels cheap. Average quality for the price."
+2025-10-09,5,Headphones,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2025-10-09,5,Smart Watch,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2025-10-09,1,Charger,"Package was delayed and the courier left it outside. It's okay, does what it says but nothing special."
+2025-10-09,4,Headphones,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2025-10-10,3,Charger,"It's okay, does what it says but nothing special."
+2025-10-10,2,Headphones,"Support never replied to my emails. It's okay, does what it says but nothing special."
+2025-10-10,5,Speaker,"Love it, using it every day."
+2025-10-10,3,Charger,Average quality for the price.
+2025-10-11,4,Charger,"Excellent value for the price, would buy again. Love it, using it every day."
+2025-10-11,5,Speaker,"Exactly as described, works perfectly."
+2025-10-11,2,Speaker,"Shipping took forever, tracking never updated."
+2025-10-11,5,Speaker,"Excellent value for the price, would buy again."
+2025-10-12,5,Headphones,Customer support answered fast and fixed my question.
+2025-10-12,3,Headphones,Average quality for the price.
+2025-10-12,5,Charger,"Exactly as described, works perfectly."
+2025-10-12,3,Smart Watch,Average quality for the price.
+2025-10-13,4,Smart Watch,"Excellent value for the price, would buy again."
+2025-10-13,5,Headphones,Great sound quality and very comfortable.
+2025-10-13,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-10-13,4,Speaker,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2025-10-13,1,Charger,Waited three weeks for a replacement that never came.
+2025-10-14,2,Headphones,"Not worth the money, competitors are cheaper."
+2025-10-14,3,Headphones,Average quality for the price.
+2025-10-14,2,Headphones,Build quality is poor and the buttons stick.
+2025-10-14,5,Headphones,Customer support answered fast and fixed my question.
+2025-10-14,5,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-10-15,5,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2025-10-15,1,Smart Watch,Waited three weeks for a replacement that never came.
+2025-10-15,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-10-15,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-10-16,5,Speaker,Customer support answered fast and fixed my question.
+2025-10-16,5,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2025-10-16,3,Smart Watch,Average quality for the price.
+2025-10-16,5,Charger,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2025-10-16,1,Smart Watch,"Shipping took forever, tracking never updated."
+2025-10-16,1,Speaker,The strap broke within weeks.
+2025-10-17,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-10-17,2,Speaker,"Used to last days, now I have to charge it constantly."
+2025-10-17,4,Charger,"Excellent value for the price, would buy again."
+2025-10-17,5,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2025-10-17,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2025-10-17,5,Headphones,Great sound quality and very comfortable.
+2025-10-17,4,Speaker,"Exactly as described, works perfectly. Love it, using it every day."
+2025-10-18,4,Headphones,"Love it, using it every day. Great sound quality and very comfortable."
+2025-10-18,5,Headphones,"Love it, using it every day. Exactly as described, works perfectly."
+2025-10-19,4,Headphones,Customer support answered fast and fixed my question.
+2025-10-19,4,Charger,"Love it, using it every day."
+2025-10-19,5,Charger,"Setup was easy and it feels well built. Love it, using it every day."
+2025-10-19,2,Smart Watch,Waited three weeks for a replacement that never came.
+2025-10-19,3,Speaker,"It's okay, does what it says but nothing special."
+2025-10-20,4,Headphones,Great sound quality and very comfortable.
+2025-10-20,5,Smart Watch,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2025-10-20,5,Headphones,Setup was easy and it feels well built.
+2025-10-20,4,Speaker,"Exactly as described, works perfectly."
+2025-10-20,4,Speaker,Customer support answered fast and fixed my question.
+2025-10-21,5,Speaker,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2025-10-21,5,Speaker,Setup was easy and it feels well built.
+2025-10-21,3,Charger,"Decent product, a few small annoyances."
+2025-10-22,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-10-22,5,Speaker,"Excellent value for the price, would buy again."
+2025-10-22,2,Speaker,"Stopped working after a month, feels cheap."
+2025-10-22,4,Smart Watch,"Customer support answered fast and fixed my question. Love it, using it every day."
+2025-10-22,5,Speaker,"Excellent value for the price, would buy again."
+2025-10-22,5,Charger,"Exactly as described, works perfectly."
+2025-10-22,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-10-23,5,Charger,Customer support answered fast and fixed my question.
+2025-10-23,5,Headphones,"Love it, using it every day."
+2025-10-23,2,Smart Watch,Build quality is poor and the buttons stick. Average quality for the price.
+2025-10-23,2,Headphones,Build quality is poor and the buttons stick.
+2025-10-23,3,Headphones,"Decent product, a few small annoyances."
+2025-10-24,1,Smart Watch,"Not worth the money, competitors are cheaper. Decent product, a few small annoyances."
+2025-10-25,5,Charger,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2025-10-25,1,Smart Watch,Package was delayed and the courier left it outside.
+2025-10-25,5,Headphones,Great sound quality and very comfortable.
+2025-10-25,5,Speaker,Customer support answered fast and fixed my question.
+2025-10-26,5,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2025-10-26,5,Headphones,Great sound quality and very comfortable.
+2025-10-27,3,Charger,"It's okay, does what it says but nothing special."
+2025-10-27,4,Charger,"Excellent value for the price, would buy again."
+2025-10-27,5,Speaker,Setup was easy and it feels well built.
+2025-10-28,5,Speaker,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2025-10-28,2,Headphones,Waited three weeks for a replacement that never came.
+2025-10-28,5,Headphones,Setup was easy and it feels well built.
+2025-10-28,2,Headphones,Build quality is poor and the buttons stick.
+2025-10-29,4,Charger,"Excellent value for the price, would buy again."
+2025-10-29,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2025-10-29,5,Speaker,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2025-10-29,5,Charger,"Exactly as described, works perfectly."
+2025-10-30,4,Smart Watch,Customer support answered fast and fixed my question.
+2025-10-30,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2025-10-31,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2025-10-31,5,Charger,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-10-31,5,Charger,"Excellent value for the price, would buy again."
+2025-10-31,3,Speaker,"Decent product, a few small annoyances."
+2025-11-01,5,Speaker,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2025-11-01,4,Headphones,Setup was easy and it feels well built.
+2025-11-01,5,Charger,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2025-11-01,5,Headphones,"Exactly as described, works perfectly."
+2025-11-02,5,Smart Watch,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2025-11-02,5,Charger,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-11-02,5,Charger,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2025-11-02,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-03,1,Charger,Support never replied to my emails.
+2025-11-03,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-11-03,1,Smart Watch,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2025-11-03,3,Smart Watch,Average quality for the price.
+2025-11-04,5,Smart Watch,"Excellent value for the price, would buy again."
+2025-11-04,3,Headphones,Average quality for the price.
+2025-11-04,2,Smart Watch,Build quality is poor and the buttons stick.
+2025-11-05,5,Charger,"Excellent value for the price, would buy again."
+2025-11-05,4,Smart Watch,"Excellent value for the price, would buy again."
+2025-11-05,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-11-05,5,Headphones,"Excellent value for the price, would buy again."
+2025-11-05,5,Headphones,"Exactly as described, works perfectly."
+2025-11-05,4,Charger,"Great sound quality and very comfortable. Love it, using it every day."
+2025-11-05,5,Charger,Setup was easy and it feels well built.
+2025-11-06,2,Charger,The strap broke within weeks.
+2025-11-06,1,Speaker,Waited three weeks for a replacement that never came.
+2025-11-06,5,Smart Watch,"Excellent value for the price, would buy again."
+2025-11-06,5,Charger,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2025-11-06,2,Charger,"Not worth the money, competitors are cheaper."
+2025-11-06,4,Smart Watch,"Love it, using it every day."
+2025-11-06,5,Headphones,Setup was easy and it feels well built.
+2025-11-07,5,Headphones,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2025-11-07,4,Charger,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-11-07,5,Smart Watch,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-11-07,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-07,2,Speaker,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2025-11-07,3,Headphones,"It's okay, does what it says but nothing special."
+2025-11-07,4,Headphones,"Love it, using it every day."
+2025-11-08,5,Speaker,"Excellent value for the price, would buy again."
+2025-11-08,5,Smart Watch,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2025-11-08,5,Speaker,Great sound quality and very comfortable.
+2025-11-08,4,Charger,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-11-08,4,Smart Watch,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-11-09,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-09,5,Charger,"Love it, using it every day."
+2025-11-09,5,Headphones,"Love it, using it every day."
+2025-11-09,2,Smart Watch,Arrived two weeks late and the box was damaged.
+2025-11-09,4,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2025-11-10,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-11-10,5,Headphones,"Exactly as described, works perfectly."
+2025-11-10,5,Smart Watch,"Excellent value for the price, would buy again."
+2025-11-10,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-11-10,5,Headphones,Setup was easy and it feels well built.
+2025-11-11,4,Speaker,"Excellent value for the price, would buy again."
+2025-11-11,5,Headphones,Setup was easy and it feels well built.
+2025-11-11,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2025-11-11,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-11-11,4,Speaker,Setup was easy and it feels well built.
+2025-11-11,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2025-11-12,3,Smart Watch,Average quality for the price.
+2025-11-12,5,Speaker,Setup was easy and it feels well built.
+2025-11-12,2,Headphones,"Shipping took forever, tracking never updated. Average quality for the price."
+2025-11-12,4,Headphones,Setup was easy and it feels well built.
+2025-11-12,3,Headphones,Average quality for the price.
+2025-11-13,1,Headphones,Package was delayed and the courier left it outside.
+2025-11-13,5,Charger,Great sound quality and very comfortable.
+2025-11-13,3,Smart Watch,Average quality for the price.
+2025-11-13,3,Charger,"Decent product, a few small annoyances."
+2025-11-13,4,Headphones,"Love it, using it every day. Setup was easy and it feels well built."
+2025-11-13,4,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2025-11-14,4,Headphones,Great sound quality and very comfortable.
+2025-11-14,5,Speaker,"Love it, using it every day."
+2025-11-14,4,Smart Watch,Setup was easy and it feels well built.
+2025-11-14,2,Speaker,Build quality is poor and the buttons stick.
+2025-11-14,5,Headphones,Customer support answered fast and fixed my question.
+2025-11-14,5,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2025-11-14,1,Charger,Arrived two weeks late and the box was damaged.
+2025-11-15,5,Speaker,Customer support answered fast and fixed my question.
+2025-11-15,3,Headphones,"Decent product, a few small annoyances."
+2025-11-16,4,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-11-16,2,Smart Watch,"Arrived two weeks late and the box was damaged. It's okay, does what it says but nothing special."
+2025-11-16,5,Smart Watch,"Love it, using it every day."
+2025-11-16,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-11-17,2,Speaker,"Used to last days, now I have to charge it constantly."
+2025-11-17,5,Speaker,Customer support answered fast and fixed my question.
+2025-11-17,5,Speaker,Setup was easy and it feels well built.
+2025-11-17,4,Speaker,Great sound quality and very comfortable.
+2025-11-17,5,Charger,"Exactly as described, works perfectly."
+2025-11-17,5,Headphones,Great sound quality and very comfortable.
+2025-11-17,1,Headphones,"Stopped working after a month, feels cheap."
+2025-11-18,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2025-11-18,1,Smart Watch,"Shipping took forever, tracking never updated."
+2025-11-18,5,Smart Watch,"Exactly as described, works perfectly."
+2025-11-18,5,Speaker,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2025-11-18,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-19,5,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-11-19,4,Charger,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2025-11-19,5,Headphones,"Excellent value for the price, would buy again."
+2025-11-20,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-11-20,5,Headphones,"Love it, using it every day."
+2025-11-20,4,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2025-11-20,5,Speaker,Customer support answered fast and fixed my question.
+2025-11-20,3,Speaker,"Decent product, a few small annoyances."
+2025-11-20,3,Headphones,Average quality for the price.
+2025-11-21,5,Headphones,"Exactly as described, works perfectly."
+2025-11-21,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2025-11-21,4,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-11-21,2,Headphones,Package was delayed and the courier left it outside.
+2025-11-22,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-11-22,5,Smart Watch,"Love it, using it every day."
+2025-11-22,2,Smart Watch,"Stopped working after a month, feels cheap."
+2025-11-23,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-23,5,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-11-23,5,Headphones,"Love it, using it every day."
+2025-11-24,1,Headphones,Way overpriced for what you get. Average quality for the price.
+2025-11-24,3,Smart Watch,Average quality for the price.
+2025-11-24,5,Charger,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2025-11-24,5,Charger,"Exactly as described, works perfectly. Love it, using it every day."
+2025-11-24,5,Charger,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-11-24,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-11-24,3,Speaker,"It's okay, does what it says but nothing special."
+2025-11-25,5,Smart Watch,"Excellent value for the price, would buy again."
+2025-11-25,2,Headphones,Way overpriced for what you get.
+2025-11-25,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-11-25,3,Speaker,"Decent product, a few small annoyances."
+2025-11-25,5,Headphones,"Excellent value for the price, would buy again."
+2025-11-25,4,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-11-26,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-11-26,1,Charger,The strap broke within weeks. Average quality for the price.
+2025-11-26,1,Headphones,"Build quality is poor and the buttons stick. It's okay, does what it says but nothing special."
+2025-11-26,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2025-11-26,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-11-26,3,Smart Watch,"Decent product, a few small annoyances."
+2025-11-26,4,Speaker,Customer support answered fast and fixed my question.
+2025-11-26,5,Charger,"Love it, using it every day. Exactly as described, works perfectly."
+2025-11-26,5,Charger,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2025-11-26,5,Smart Watch,Setup was easy and it feels well built.
+2025-11-26,3,Smart Watch,Average quality for the price.
+2025-11-26,5,Headphones,"Love it, using it every day."
+2025-11-27,5,Headphones,Customer support answered fast and fixed my question.
+2025-11-27,4,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-11-27,5,Headphones,Customer support answered fast and fixed my question.
+2025-11-28,4,Speaker,"Exactly as described, works perfectly."
+2025-11-28,4,Charger,Great sound quality and very comfortable.
+2025-11-28,4,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2025-11-28,1,Charger,"Stopped working after a month, feels cheap."
+2025-11-28,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2025-11-28,5,Charger,Setup was easy and it feels well built.
+2025-11-28,5,Speaker,"Love it, using it every day."
+2025-11-28,1,Smart Watch,"Stopped working after a month, feels cheap."
+2025-11-29,5,Smart Watch,Setup was easy and it feels well built.
+2025-11-29,5,Speaker,"Exactly as described, works perfectly."
+2025-11-29,4,Charger,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2025-11-29,5,Headphones,"Excellent value for the price, would buy again."
+2025-11-29,3,Speaker,"It's okay, does what it says but nothing special."
+2025-11-30,5,Charger,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2025-11-30,2,Smart Watch,Way overpriced for what you get.
+2025-11-30,5,Smart Watch,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-11-30,4,Smart Watch,Customer support answered fast and fixed my question.
+2025-11-30,5,Charger,"Excellent value for the price, would buy again."
+2025-11-30,3,Charger,"Decent product, a few small annoyances."
+2025-12-01,5,Speaker,"Love it, using it every day."
+2025-12-01,2,Headphones,The strap broke within weeks.
+2025-12-01,2,Speaker,The strap broke within weeks.
+2025-12-02,4,Charger,"Love it, using it every day. Exactly as described, works perfectly."
+2025-12-02,2,Headphones,"Arrived two weeks late and the box was damaged. Decent product, a few small annoyances."
+2025-12-03,3,Headphones,"Decent product, a few small annoyances."
+2025-12-03,5,Smart Watch,Customer support answered fast and fixed my question.
+2025-12-03,3,Headphones,Average quality for the price.
+2025-12-04,4,Charger,Customer support answered fast and fixed my question.
+2025-12-04,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-12-05,3,Headphones,"Decent product, a few small annoyances."
+2025-12-05,3,Smart Watch,Average quality for the price.
+2025-12-05,5,Headphones,"Excellent value for the price, would buy again."
+2025-12-05,3,Speaker,Average quality for the price.
+2025-12-05,4,Smart Watch,"Exactly as described, works perfectly."
+2025-12-05,5,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-12-05,4,Charger,"Love it, using it every day. Setup was easy and it feels well built."
+2025-12-06,5,Charger,"Love it, using it every day."
+2025-12-06,3,Speaker,"It's okay, does what it says but nothing special."
+2025-12-06,4,Speaker,"Love it, using it every day."
+2025-12-06,5,Speaker,Customer support answered fast and fixed my question.
+2025-12-06,4,Smart Watch,Setup was easy and it feels well built.
+2025-12-06,5,Speaker,Setup was easy and it feels well built.
+2025-12-06,5,Speaker,Great sound quality and very comfortable.
+2025-12-07,5,Speaker,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2025-12-07,1,Speaker,Build quality is poor and the buttons stick.
+2025-12-07,3,Smart Watch,"Decent product, a few small annoyances."
+2025-12-07,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2025-12-07,2,Charger,"Not worth the money, competitors are cheaper. It's okay, does what it says but nothing special."
+2025-12-07,5,Charger,Customer support answered fast and fixed my question.
+2025-12-08,5,Charger,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-12-08,2,Headphones,The strap broke within weeks.
+2025-12-08,3,Charger,"It's okay, does what it says but nothing special."
+2025-12-08,3,Smart Watch,"Decent product, a few small annoyances."
+2025-12-08,3,Headphones,"It's okay, does what it says but nothing special."
+2025-12-08,5,Headphones,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2025-12-09,4,Speaker,"Love it, using it every day."
+2025-12-09,3,Smart Watch,"Decent product, a few small annoyances."
+2025-12-09,1,Speaker,"Not worth the money, competitors are cheaper. It's okay, does what it says but nothing special."
+2025-12-09,1,Speaker,Battery drains overnight even when I'm not using it.
+2025-12-09,5,Charger,"Great sound quality and very comfortable. Love it, using it every day."
+2025-12-10,5,Headphones,Customer support answered fast and fixed my question.
+2025-12-10,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2025-12-10,5,Speaker,Setup was easy and it feels well built.
+2025-12-10,1,Headphones,Arrived two weeks late and the box was damaged. Average quality for the price.
+2025-12-10,4,Smart Watch,Great sound quality and very comfortable.
+2025-12-11,3,Smart Watch,Average quality for the price.
+2025-12-11,4,Speaker,Setup was easy and it feels well built.
+2025-12-11,3,Smart Watch,Average quality for the price.
+2025-12-11,5,Smart Watch,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2025-12-11,4,Charger,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2025-12-11,1,Charger,Build quality is poor and the buttons stick.
+2025-12-11,5,Speaker,"Love it, using it every day."
+2025-12-11,5,Charger,"Exactly as described, works perfectly. Love it, using it every day."
+2025-12-11,5,Headphones,Customer support answered fast and fixed my question.
+2025-12-12,5,Speaker,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2025-12-12,4,Speaker,Customer support answered fast and fixed my question.
+2025-12-12,5,Charger,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2025-12-12,5,Smart Watch,Setup was easy and it feels well built.
+2025-12-12,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-13,5,Headphones,"Love it, using it every day."
+2025-12-13,5,Smart Watch,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-12-13,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-14,5,Charger,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2025-12-14,5,Headphones,"Excellent value for the price, would buy again."
+2025-12-14,1,Headphones,"Shipping took forever, tracking never updated."
+2025-12-14,2,Headphones,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2025-12-14,2,Headphones,"Shipping took forever, tracking never updated."
+2025-12-14,5,Headphones,"Excellent value for the price, would buy again."
+2025-12-14,5,Charger,"Excellent value for the price, would buy again."
+2025-12-15,2,Smart Watch,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2025-12-15,4,Smart Watch,Setup was easy and it feels well built.
+2025-12-15,5,Charger,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2025-12-15,5,Speaker,Great sound quality and very comfortable.
+2025-12-15,5,Smart Watch,"Love it, using it every day. Exactly as described, works perfectly."
+2025-12-15,5,Charger,"Exactly as described, works perfectly."
+2025-12-16,2,Headphones,"Shipping took forever, tracking never updated. Average quality for the price."
+2025-12-16,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-16,5,Smart Watch,"Exactly as described, works perfectly."
+2025-12-16,5,Smart Watch,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-12-16,2,Speaker,Build quality is poor and the buttons stick. Average quality for the price.
+2025-12-16,5,Charger,"Exactly as described, works perfectly. Love it, using it every day."
+2025-12-16,2,Smart Watch,Support never replied to my emails.
+2025-12-16,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-17,5,Speaker,Customer support answered fast and fixed my question.
+2025-12-17,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-17,5,Speaker,"Love it, using it every day."
+2025-12-17,2,Headphones,"Shipping took forever, tracking never updated."
+2025-12-18,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2025-12-18,5,Charger,"Excellent value for the price, would buy again."
+2025-12-18,4,Speaker,Setup was easy and it feels well built.
+2025-12-18,3,Headphones,"Decent product, a few small annoyances."
+2025-12-18,2,Headphones,"Shipping took forever, tracking never updated."
+2025-12-18,1,Speaker,"Way overpriced for what you get. It's okay, does what it says but nothing special."
+2025-12-18,5,Speaker,"Exactly as described, works perfectly. Love it, using it every day."
+2025-12-18,5,Headphones,Setup was easy and it feels well built.
+2025-12-18,5,Speaker,Setup was easy and it feels well built.
+2025-12-18,5,Speaker,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2025-12-18,1,Smart Watch,"Stopped working after a month, feels cheap. It's okay, does what it says but nothing special."
+2025-12-19,3,Headphones,"It's okay, does what it says but nothing special."
+2025-12-19,5,Charger,"Exactly as described, works perfectly."
+2025-12-19,4,Speaker,"Excellent value for the price, would buy again."
+2025-12-19,5,Speaker,"Love it, using it every day. Excellent value for the price, would buy again."
+2025-12-19,2,Charger,"Build quality is poor and the buttons stick. Decent product, a few small annoyances."
+2025-12-19,4,Smart Watch,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2025-12-19,5,Smart Watch,"Love it, using it every day. Customer support answered fast and fixed my question."
+2025-12-19,5,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2025-12-19,1,Headphones,Build quality is poor and the buttons stick.
+2025-12-20,2,Headphones,Battery barely lasts half a day since the update.
+2025-12-20,1,Headphones,"Shipping took forever, tracking never updated."
+2025-12-20,5,Charger,Customer support answered fast and fixed my question.
+2025-12-20,4,Smart Watch,"Customer support answered fast and fixed my question. Love it, using it every day."
+2025-12-20,5,Smart Watch,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2025-12-21,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2025-12-21,2,Speaker,"Waited three weeks for a replacement that never came. Decent product, a few small annoyances."
+2025-12-21,4,Charger,Great sound quality and very comfortable.
+2025-12-21,5,Smart Watch,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2025-12-21,5,Headphones,Setup was easy and it feels well built.
+2025-12-21,5,Smart Watch,"Love it, using it every day."
+2025-12-22,5,Charger,Setup was easy and it feels well built.
+2025-12-22,3,Smart Watch,Average quality for the price.
+2025-12-22,5,Speaker,Customer support answered fast and fixed my question.
+2025-12-22,5,Speaker,"Love it, using it every day."
+2025-12-22,4,Speaker,"Excellent value for the price, would buy again."
+2025-12-22,4,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2025-12-23,4,Charger,"Exactly as described, works perfectly."
+2025-12-24,3,Smart Watch,Average quality for the price.
+2025-12-24,1,Charger,"The strap broke within weeks. It's okay, does what it says but nothing special."
+2025-12-24,2,Charger,"Stopped working after a month, feels cheap."
+2025-12-24,5,Charger,"Excellent value for the price, would buy again."
+2025-12-24,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2025-12-25,5,Charger,"Love it, using it every day."
+2025-12-25,4,Charger,"Love it, using it every day."
+2025-12-25,3,Speaker,"Decent product, a few small annoyances."
+2025-12-26,2,Smart Watch,Way overpriced for what you get.
+2025-12-26,3,Speaker,"Decent product, a few small annoyances."
+2025-12-26,5,Speaker,"Love it, using it every day."
+2025-12-27,5,Speaker,"Exactly as described, works perfectly. Love it, using it every day."
+2025-12-27,5,Charger,Great sound quality and very comfortable.
+2025-12-27,5,Headphones,"Love it, using it every day."
+2025-12-27,5,Speaker,Customer support answered fast and fixed my question.
+2025-12-27,5,Smart Watch,"Setup was easy and it feels well built. Love it, using it every day."
+2025-12-27,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2025-12-27,4,Headphones,Customer support answered fast and fixed my question.
+2025-12-28,4,Speaker,Customer support answered fast and fixed my question.
+2025-12-28,5,Charger,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2025-12-28,2,Smart Watch,Build quality is poor and the buttons stick.
+2025-12-28,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2025-12-28,2,Smart Watch,Way overpriced for what you get.
+2025-12-28,5,Charger,"Excellent value for the price, would buy again."
+2025-12-29,3,Smart Watch,"It's okay, does what it says but nothing special."
+2025-12-29,2,Headphones,Arrived two weeks late and the box was damaged.
+2025-12-29,5,Speaker,"Exactly as described, works perfectly."
+2025-12-29,5,Headphones,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2025-12-29,2,Smart Watch,"Support never replied to my emails. It's okay, does what it says but nothing special."
+2025-12-29,4,Charger,"Exactly as described, works perfectly."
+2025-12-29,5,Headphones,Setup was easy and it feels well built.
+2025-12-30,4,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2025-12-30,3,Headphones,"Decent product, a few small annoyances."
+2025-12-31,2,Headphones,"Arrived two weeks late and the box was damaged. It's okay, does what it says but nothing special."
+2025-12-31,4,Charger,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2025-12-31,5,Charger,Great sound quality and very comfortable.
+2025-12-31,4,Speaker,"Love it, using it every day."
+2026-01-01,1,Headphones,"Arrived two weeks late and the box was damaged. Decent product, a few small annoyances."
+2026-01-01,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-01-01,5,Headphones,Setup was easy and it feels well built.
+2026-01-01,1,Headphones,The strap broke within weeks.
+2026-01-01,5,Smart Watch,"Exactly as described, works perfectly."
+2026-01-01,1,Smart Watch,Waited three weeks for a replacement that never came.
+2026-01-02,5,Speaker,"Excellent value for the price, would buy again."
+2026-01-02,5,Speaker,"Excellent value for the price, would buy again."
+2026-01-02,5,Smart Watch,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-01-02,5,Headphones,Great sound quality and very comfortable.
+2026-01-02,3,Headphones,"It's okay, does what it says but nothing special."
+2026-01-03,5,Smart Watch,"Exactly as described, works perfectly."
+2026-01-03,5,Charger,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-01-04,5,Smart Watch,Great sound quality and very comfortable.
+2026-01-05,2,Headphones,"Used to last days, now I have to charge it constantly."
+2026-01-05,2,Headphones,Support never replied to my emails.
+2026-01-05,5,Headphones,"Love it, using it every day."
+2026-01-05,2,Speaker,Build quality is poor and the buttons stick.
+2026-01-06,4,Smart Watch,Great sound quality and very comfortable.
+2026-01-06,4,Headphones,"Excellent value for the price, would buy again."
+2026-01-06,3,Smart Watch,Average quality for the price.
+2026-01-06,2,Headphones,Waited three weeks for a replacement that never came.
+2026-01-06,1,Smart Watch,Build quality is poor and the buttons stick.
+2026-01-06,5,Headphones,"Love it, using it every day."
+2026-01-07,5,Speaker,"Excellent value for the price, would buy again."
+2026-01-07,5,Headphones,Customer support answered fast and fixed my question.
+2026-01-07,2,Headphones,"Not worth the money, competitors are cheaper."
+2026-01-07,3,Smart Watch,Average quality for the price.
+2026-01-07,1,Charger,"Package was delayed and the courier left it outside. It's okay, does what it says but nothing special."
+2026-01-07,1,Headphones,Support never replied to my emails.
+2026-01-07,5,Headphones,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-01-07,4,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-01-08,2,Charger,Way overpriced for what you get.
+2026-01-08,5,Smart Watch,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-01-08,5,Speaker,"Exactly as described, works perfectly."
+2026-01-08,5,Headphones,"Love it, using it every day."
+2026-01-08,5,Charger,"Excellent value for the price, would buy again."
+2026-01-09,5,Headphones,Setup was easy and it feels well built.
+2026-01-09,5,Headphones,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-01-09,4,Speaker,Setup was easy and it feels well built.
+2026-01-09,1,Headphones,Support never replied to my emails. Average quality for the price.
+2026-01-10,5,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2026-01-10,5,Headphones,"Love it, using it every day."
+2026-01-10,4,Speaker,Setup was easy and it feels well built.
+2026-01-10,2,Headphones,"Waited three weeks for a replacement that never came. Decent product, a few small annoyances."
+2026-01-10,2,Speaker,The strap broke within weeks.
+2026-01-11,4,Smart Watch,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-01-11,5,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-01-11,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-01-11,3,Speaker,"Decent product, a few small annoyances."
+2026-01-12,5,Headphones,Customer support answered fast and fixed my question.
+2026-01-12,2,Charger,Battery barely lasts half a day since the update.
+2026-01-12,2,Headphones,"Way overpriced for what you get. It's okay, does what it says but nothing special."
+2026-01-13,5,Smart Watch,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-01-13,5,Smart Watch,"Great sound quality and very comfortable. Love it, using it every day."
+2026-01-13,5,Smart Watch,"Exactly as described, works perfectly."
+2026-01-13,5,Charger,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-01-13,5,Charger,Great sound quality and very comfortable.
+2026-01-13,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-01-14,1,Speaker,Way overpriced for what you get.
+2026-01-14,3,Speaker,"Decent product, a few small annoyances."
+2026-01-15,4,Smart Watch,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-01-15,5,Charger,"Excellent value for the price, would buy again."
+2026-01-15,4,Headphones,Customer support answered fast and fixed my question.
+2026-01-15,5,Headphones,Setup was easy and it feels well built.
+2026-01-15,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-01-15,1,Headphones,"Not worth the money, competitors are cheaper."
+2026-01-16,5,Smart Watch,Great sound quality and very comfortable.
+2026-01-16,5,Charger,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-01-16,5,Charger,"Exactly as described, works perfectly."
+2026-01-16,4,Headphones,Customer support answered fast and fixed my question.
+2026-01-16,4,Headphones,Great sound quality and very comfortable.
+2026-01-16,5,Headphones,"Love it, using it every day."
+2026-01-17,5,Headphones,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-01-17,3,Speaker,"Decent product, a few small annoyances."
+2026-01-18,2,Headphones,"Not worth the money, competitors are cheaper. Decent product, a few small annoyances."
+2026-01-18,3,Headphones,Average quality for the price.
+2026-01-18,4,Speaker,"Excellent value for the price, would buy again."
+2026-01-18,5,Speaker,Customer support answered fast and fixed my question.
+2026-01-18,4,Headphones,"Exactly as described, works perfectly."
+2026-01-18,5,Speaker,Customer support answered fast and fixed my question.
+2026-01-19,1,Charger,"Way overpriced for what you get. Decent product, a few small annoyances."
+2026-01-19,5,Charger,"Setup was easy and it feels well built. Love it, using it every day."
+2026-01-19,4,Headphones,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-01-19,5,Speaker,"Exactly as described, works perfectly."
+2026-01-19,5,Charger,Setup was easy and it feels well built.
+2026-01-19,4,Speaker,Customer support answered fast and fixed my question.
+2026-01-20,5,Headphones,"Excellent value for the price, would buy again."
+2026-01-20,2,Charger,Battery drains overnight even when I'm not using it.
+2026-01-20,4,Speaker,Setup was easy and it feels well built.
+2026-01-20,5,Headphones,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-01-20,5,Smart Watch,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-01-20,4,Smart Watch,"Love it, using it every day."
+2026-01-20,4,Headphones,"Love it, using it every day."
+2026-01-21,1,Smart Watch,"Stopped working after a month, feels cheap."
+2026-01-21,4,Charger,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-01-21,5,Headphones,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-01-21,3,Smart Watch,"Decent product, a few small annoyances."
+2026-01-21,5,Speaker,"Exactly as described, works perfectly."
+2026-01-21,5,Charger,"Exactly as described, works perfectly."
+2026-01-21,5,Charger,Setup was easy and it feels well built.
+2026-01-21,5,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-01-22,3,Headphones,"Decent product, a few small annoyances."
+2026-01-22,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-01-22,5,Charger,Customer support answered fast and fixed my question.
+2026-01-22,1,Headphones,"Not worth the money, competitors are cheaper."
+2026-01-22,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-01-23,5,Headphones,Setup was easy and it feels well built.
+2026-01-23,2,Headphones,Package was delayed and the courier left it outside.
+2026-01-23,2,Headphones,"Stopped working after a month, feels cheap."
+2026-01-24,5,Charger,Setup was easy and it feels well built.
+2026-01-24,5,Speaker,Customer support answered fast and fixed my question.
+2026-01-25,2,Charger,Waited three weeks for a replacement that never came.
+2026-01-25,3,Smart Watch,Average quality for the price.
+2026-01-27,5,Charger,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-01-27,4,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2026-01-27,4,Speaker,Customer support answered fast and fixed my question.
+2026-01-27,3,Headphones,"Decent product, a few small annoyances."
+2026-01-27,5,Speaker,"Exactly as described, works perfectly."
+2026-01-28,3,Headphones,"It's okay, does what it says but nothing special."
+2026-01-28,5,Headphones,"Love it, using it every day."
+2026-01-28,5,Speaker,Great sound quality and very comfortable.
+2026-01-28,5,Speaker,Customer support answered fast and fixed my question.
+2026-01-29,5,Headphones,"Excellent value for the price, would buy again."
+2026-01-29,4,Speaker,"Excellent value for the price, would buy again."
+2026-01-29,5,Speaker,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-01-29,5,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-01-29,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-01-29,5,Charger,"Exactly as described, works perfectly."
+2026-01-29,5,Smart Watch,"Love it, using it every day."
+2026-01-30,5,Headphones,Great sound quality and very comfortable.
+2026-01-30,1,Charger,"Stopped working after a month, feels cheap."
+2026-01-30,1,Speaker,Waited three weeks for a replacement that never came.
+2026-01-30,3,Smart Watch,Average quality for the price.
+2026-01-31,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-01-31,5,Headphones,Setup was easy and it feels well built.
+2026-01-31,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-01-31,5,Speaker,Great sound quality and very comfortable.
+2026-01-31,3,Speaker,Average quality for the price.
+2026-01-31,5,Smart Watch,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-01-31,2,Speaker,Arrived two weeks late and the box was damaged.
+2026-02-01,5,Speaker,"Exactly as described, works perfectly."
+2026-02-01,5,Speaker,Customer support answered fast and fixed my question.
+2026-02-01,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-02-01,5,Speaker,"Love it, using it every day."
+2026-02-02,5,Speaker,"Love it, using it every day."
+2026-02-02,4,Speaker,Customer support answered fast and fixed my question.
+2026-02-02,2,Smart Watch,Package was delayed and the courier left it outside.
+2026-02-02,5,Charger,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-02-02,5,Headphones,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-02-03,4,Speaker,Customer support answered fast and fixed my question.
+2026-02-03,4,Headphones,"Love it, using it every day."
+2026-02-04,5,Speaker,Customer support answered fast and fixed my question.
+2026-02-04,4,Charger,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-02-04,4,Speaker,"Excellent value for the price, would buy again."
+2026-02-04,1,Smart Watch,Build quality is poor and the buttons stick.
+2026-02-04,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-02-04,3,Speaker,"It's okay, does what it says but nothing special."
+2026-02-04,5,Headphones,Setup was easy and it feels well built.
+2026-02-05,4,Charger,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-02-05,4,Headphones,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-02-05,5,Headphones,Customer support answered fast and fixed my question.
+2026-02-05,5,Headphones,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-02-05,5,Headphones,Great sound quality and very comfortable.
+2026-02-05,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-02-05,5,Charger,"Love it, using it every day."
+2026-02-05,4,Speaker,"Exactly as described, works perfectly."
+2026-02-05,5,Charger,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-02-05,4,Speaker,Customer support answered fast and fixed my question.
+2026-02-06,5,Charger,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-02-06,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-02-06,5,Headphones,"Exactly as described, works perfectly."
+2026-02-06,5,Speaker,Great sound quality and very comfortable.
+2026-02-07,5,Speaker,Great sound quality and very comfortable.
+2026-02-08,4,Charger,"Love it, using it every day. Great sound quality and very comfortable."
+2026-02-08,4,Headphones,"Exactly as described, works perfectly."
+2026-02-08,5,Speaker,Setup was easy and it feels well built.
+2026-02-08,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2026-02-08,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-02-08,3,Headphones,Average quality for the price.
+2026-02-08,4,Smart Watch,"Exactly as described, works perfectly."
+2026-02-09,1,Headphones,Arrived two weeks late and the box was damaged.
+2026-02-09,5,Charger,Setup was easy and it feels well built.
+2026-02-10,5,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-02-10,5,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2026-02-11,5,Charger,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-02-11,5,Speaker,"Exactly as described, works perfectly. Love it, using it every day."
+2026-02-12,5,Smart Watch,Setup was easy and it feels well built.
+2026-02-13,1,Smart Watch,"Not worth the money, competitors are cheaper. It's okay, does what it says but nothing special."
+2026-02-13,4,Speaker,Customer support answered fast and fixed my question.
+2026-02-13,5,Headphones,Great sound quality and very comfortable.
+2026-02-13,4,Speaker,"Excellent value for the price, would buy again."
+2026-02-13,3,Smart Watch,Average quality for the price.
+2026-02-14,5,Charger,"Great sound quality and very comfortable. Love it, using it every day."
+2026-02-14,5,Smart Watch,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-02-14,3,Charger,"Decent product, a few small annoyances."
+2026-02-14,5,Charger,Setup was easy and it feels well built.
+2026-02-14,4,Charger,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-02-15,5,Smart Watch,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-02-15,4,Speaker,"Excellent value for the price, would buy again."
+2026-02-15,4,Headphones,"Exactly as described, works perfectly."
+2026-02-15,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-02-15,4,Speaker,Great sound quality and very comfortable.
+2026-02-15,2,Charger,"The strap broke within weeks. It's okay, does what it says but nothing special."
+2026-02-15,4,Speaker,"Love it, using it every day."
+2026-02-15,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-02-16,2,Smart Watch,"Shipping took forever, tracking never updated."
+2026-02-16,4,Headphones,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-02-16,3,Speaker,"It's okay, does what it says but nothing special."
+2026-02-16,4,Speaker,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-02-16,5,Charger,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-02-16,5,Smart Watch,"Love it, using it every day."
+2026-02-17,5,Headphones,Setup was easy and it feels well built.
+2026-02-17,5,Smart Watch,"Great sound quality and very comfortable. Love it, using it every day."
+2026-02-17,5,Charger,"Love it, using it every day. Exactly as described, works perfectly."
+2026-02-18,2,Charger,"Not worth the money, competitors are cheaper."
+2026-02-18,1,Headphones,"Stopped working after a month, feels cheap."
+2026-02-18,5,Charger,"Exactly as described, works perfectly."
+2026-02-18,5,Headphones,"Excellent value for the price, would buy again."
+2026-02-18,4,Speaker,Setup was easy and it feels well built.
+2026-02-18,3,Headphones,"Decent product, a few small annoyances."
+2026-02-18,5,Speaker,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-02-19,3,Headphones,"Decent product, a few small annoyances."
+2026-02-19,5,Headphones,"Love it, using it every day."
+2026-02-19,5,Charger,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-02-19,4,Headphones,Setup was easy and it feels well built.
+2026-02-20,4,Charger,"Excellent value for the price, would buy again."
+2026-02-20,5,Charger,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-02-20,4,Headphones,"Exactly as described, works perfectly."
+2026-02-20,4,Headphones,"Exactly as described, works perfectly."
+2026-02-21,5,Speaker,"Exactly as described, works perfectly."
+2026-02-21,5,Headphones,Great sound quality and very comfortable.
+2026-02-22,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-02-22,5,Charger,"Love it, using it every day."
+2026-02-22,5,Speaker,"Love it, using it every day."
+2026-02-22,5,Headphones,"Exactly as described, works perfectly."
+2026-02-23,3,Headphones,"It's okay, does what it says but nothing special."
+2026-02-23,3,Headphones,Average quality for the price.
+2026-02-23,5,Headphones,Customer support answered fast and fixed my question.
+2026-02-23,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-02-23,5,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-02-23,5,Headphones,Customer support answered fast and fixed my question.
+2026-02-23,4,Speaker,Customer support answered fast and fixed my question.
+2026-02-24,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2026-02-24,5,Headphones,"Love it, using it every day."
+2026-02-24,5,Speaker,"Excellent value for the price, would buy again."
+2026-02-25,2,Charger,"Not worth the money, competitors are cheaper."
+2026-02-25,5,Speaker,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-02-26,3,Smart Watch,Average quality for the price.
+2026-02-26,1,Headphones,Package was delayed and the courier left it outside.
+2026-02-26,5,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-02-26,5,Smart Watch,"Love it, using it every day."
+2026-02-26,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-02-27,5,Headphones,Great sound quality and very comfortable.
+2026-02-28,5,Speaker,Customer support answered fast and fixed my question.
+2026-02-28,5,Headphones,Setup was easy and it feels well built.
+2026-02-28,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-02-28,1,Headphones,"Shipping took forever, tracking never updated."
+2026-02-28,5,Charger,"Setup was easy and it feels well built. Love it, using it every day."
+2026-02-28,2,Headphones,Arrived two weeks late and the box was damaged.
+2026-02-28,4,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-03-01,4,Speaker,"Exactly as described, works perfectly."
+2026-03-01,4,Speaker,Setup was easy and it feels well built.
+2026-03-01,5,Speaker,"Excellent value for the price, would buy again."
+2026-03-01,5,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-03-01,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-03-01,1,Smart Watch,The strap broke within weeks.
+2026-03-01,5,Speaker,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-03-01,3,Speaker,Average quality for the price.
+2026-03-01,3,Headphones,"It's okay, does what it says but nothing special."
+2026-03-02,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-03-02,5,Charger,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-03-02,4,Smart Watch,Setup was easy and it feels well built.
+2026-03-03,2,Headphones,"Stopped working after a month, feels cheap."
+2026-03-03,4,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-03-03,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-03-03,2,Speaker,"Not worth the money, competitors are cheaper. It's okay, does what it says but nothing special."
+2026-03-03,5,Charger,"Exactly as described, works perfectly."
+2026-03-03,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-03,3,Headphones,"Decent product, a few small annoyances."
+2026-03-03,1,Smart Watch,Way overpriced for what you get.
+2026-03-03,5,Speaker,Customer support answered fast and fixed my question.
+2026-03-03,5,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2026-03-03,5,Headphones,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-03-04,5,Headphones,"Exactly as described, works perfectly."
+2026-03-04,5,Smart Watch,"Exactly as described, works perfectly."
+2026-03-04,5,Speaker,Great sound quality and very comfortable.
+2026-03-04,5,Headphones,Great sound quality and very comfortable.
+2026-03-04,5,Charger,"Exactly as described, works perfectly."
+2026-03-05,5,Charger,Customer support answered fast and fixed my question.
+2026-03-05,1,Headphones,Way overpriced for what you get. Average quality for the price.
+2026-03-05,2,Headphones,Build quality is poor and the buttons stick.
+2026-03-05,4,Smart Watch,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-03-05,5,Headphones,Great sound quality and very comfortable.
+2026-03-06,2,Headphones,"Stopped working after a month, feels cheap. It's okay, does what it says but nothing special."
+2026-03-06,3,Speaker,"Decent product, a few small annoyances."
+2026-03-06,3,Speaker,"Decent product, a few small annoyances."
+2026-03-06,5,Headphones,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-03-06,4,Charger,Great sound quality and very comfortable.
+2026-03-06,5,Speaker,"Exactly as described, works perfectly."
+2026-03-07,4,Headphones,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-03-07,5,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2026-03-07,3,Speaker,"It's okay, does what it says but nothing special."
+2026-03-07,5,Smart Watch,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-03-08,5,Charger,Customer support answered fast and fixed my question.
+2026-03-08,5,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-03-08,4,Smart Watch,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-03-08,5,Speaker,"Love it, using it every day."
+2026-03-09,4,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-03-09,4,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-03-09,5,Headphones,"Love it, using it every day."
+2026-03-10,5,Speaker,"Love it, using it every day."
+2026-03-10,5,Speaker,Great sound quality and very comfortable.
+2026-03-10,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2026-03-11,5,Speaker,"Excellent value for the price, would buy again."
+2026-03-11,1,Smart Watch,Battery barely lasts half a day since the update.
+2026-03-11,5,Charger,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-03-12,5,Speaker,"Exactly as described, works perfectly."
+2026-03-12,3,Charger,"It's okay, does what it says but nothing special."
+2026-03-12,1,Charger,Waited three weeks for a replacement that never came.
+2026-03-12,4,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-03-12,2,Charger,Support never replied to my emails.
+2026-03-12,5,Speaker,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-03-13,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-03-13,3,Charger,Average quality for the price.
+2026-03-13,5,Charger,Customer support answered fast and fixed my question.
+2026-03-14,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-03-14,5,Speaker,Setup was easy and it feels well built.
+2026-03-14,1,Smart Watch,"Stopped working after a month, feels cheap. It's okay, does what it says but nothing special."
+2026-03-14,5,Speaker,Setup was easy and it feels well built.
+2026-03-14,5,Smart Watch,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-03-15,5,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-03-15,4,Headphones,Customer support answered fast and fixed my question.
+2026-03-15,1,Speaker,Package was delayed and the courier left it outside.
+2026-03-15,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-15,5,Headphones,"Exactly as described, works perfectly."
+2026-03-15,5,Charger,"Love it, using it every day."
+2026-03-16,5,Speaker,Customer support answered fast and fixed my question.
+2026-03-16,5,Charger,"Exactly as described, works perfectly."
+2026-03-16,5,Speaker,Setup was easy and it feels well built.
+2026-03-16,3,Speaker,Average quality for the price.
+2026-03-17,5,Headphones,"Excellent value for the price, would buy again."
+2026-03-17,2,Smart Watch,Way overpriced for what you get.
+2026-03-17,1,Headphones,"Not worth the money, competitors are cheaper."
+2026-03-18,4,Headphones,Customer support answered fast and fixed my question.
+2026-03-18,5,Smart Watch,Setup was easy and it feels well built.
+2026-03-18,2,Speaker,Way overpriced for what you get.
+2026-03-18,4,Headphones,Customer support answered fast and fixed my question.
+2026-03-18,3,Headphones,"It's okay, does what it says but nothing special."
+2026-03-19,5,Smart Watch,"Exactly as described, works perfectly."
+2026-03-19,4,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-03-19,5,Charger,"Exactly as described, works perfectly."
+2026-03-19,5,Headphones,Great sound quality and very comfortable.
+2026-03-19,4,Smart Watch,Customer support answered fast and fixed my question.
+2026-03-19,4,Speaker,Great sound quality and very comfortable.
+2026-03-19,5,Headphones,Great sound quality and very comfortable.
+2026-03-20,5,Charger,"Exactly as described, works perfectly."
+2026-03-20,5,Charger,Great sound quality and very comfortable.
+2026-03-20,1,Charger,Way overpriced for what you get.
+2026-03-20,5,Headphones,"Love it, using it every day."
+2026-03-20,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-03-20,5,Smart Watch,"Exactly as described, works perfectly."
+2026-03-20,3,Headphones,"It's okay, does what it says but nothing special."
+2026-03-21,5,Smart Watch,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-03-21,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-21,2,Speaker,"Battery drains overnight even when I'm not using it. Decent product, a few small annoyances."
+2026-03-21,3,Headphones,Average quality for the price.
+2026-03-21,3,Headphones,"It's okay, does what it says but nothing special."
+2026-03-22,5,Smart Watch,Setup was easy and it feels well built.
+2026-03-22,5,Smart Watch,Setup was easy and it feels well built.
+2026-03-22,5,Charger,Customer support answered fast and fixed my question.
+2026-03-22,5,Speaker,"Exactly as described, works perfectly."
+2026-03-22,5,Smart Watch,"Setup was easy and it feels well built. Love it, using it every day."
+2026-03-23,4,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-03-23,5,Speaker,Setup was easy and it feels well built.
+2026-03-23,1,Headphones,"Build quality is poor and the buttons stick. It's okay, does what it says but nothing special."
+2026-03-23,5,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-03-24,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-24,5,Smart Watch,Great sound quality and very comfortable.
+2026-03-24,5,Headphones,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-03-24,1,Smart Watch,The strap broke within weeks.
+2026-03-24,3,Speaker,"Decent product, a few small annoyances."
+2026-03-25,5,Smart Watch,Great sound quality and very comfortable.
+2026-03-25,5,Headphones,Setup was easy and it feels well built.
+2026-03-25,5,Charger,Customer support answered fast and fixed my question.
+2026-03-25,2,Smart Watch,"The strap broke within weeks. Decent product, a few small annoyances."
+2026-03-25,5,Speaker,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-03-25,4,Headphones,Setup was easy and it feels well built.
+2026-03-26,5,Speaker,"Excellent value for the price, would buy again."
+2026-03-26,2,Smart Watch,"Support never replied to my emails. It's okay, does what it says but nothing special."
+2026-03-26,5,Headphones,Setup was easy and it feels well built.
+2026-03-26,4,Charger,Setup was easy and it feels well built.
+2026-03-26,2,Speaker,"Battery barely lasts half a day since the update. Decent product, a few small annoyances."
+2026-03-26,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-03-26,4,Smart Watch,Great sound quality and very comfortable.
+2026-03-27,4,Speaker,Customer support answered fast and fixed my question.
+2026-03-27,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-03-27,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-27,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-27,5,Headphones,Customer support answered fast and fixed my question.
+2026-03-28,3,Speaker,Average quality for the price.
+2026-03-28,5,Charger,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-03-28,5,Speaker,Customer support answered fast and fixed my question.
+2026-03-28,5,Headphones,Setup was easy and it feels well built.
+2026-03-28,5,Headphones,"Exactly as described, works perfectly."
+2026-03-29,1,Charger,Waited three weeks for a replacement that never came. Average quality for the price.
+2026-03-29,4,Speaker,"Excellent value for the price, would buy again."
+2026-03-29,5,Charger,Great sound quality and very comfortable.
+2026-03-30,3,Speaker,"It's okay, does what it says but nothing special."
+2026-03-30,5,Headphones,"Love it, using it every day."
+2026-03-30,4,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-03-30,5,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2026-03-30,4,Smart Watch,"Love it, using it every day. Great sound quality and very comfortable."
+2026-03-30,2,Headphones,Build quality is poor and the buttons stick.
+2026-03-30,5,Smart Watch,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-03-30,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-03-30,1,Smart Watch,"Not worth the money, competitors are cheaper. Average quality for the price."
+2026-03-30,5,Smart Watch,"Love it, using it every day."
+2026-03-30,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-03-31,2,Speaker,Arrived two weeks late and the box was damaged.
+2026-04-01,2,Charger,Arrived two weeks late and the box was damaged.
+2026-04-02,4,Speaker,"Excellent value for the price, would buy again."
+2026-04-02,5,Charger,"Excellent value for the price, would buy again."
+2026-04-02,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-02,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-03,2,Headphones,"Not worth the money, competitors are cheaper."
+2026-04-03,4,Headphones,"Love it, using it every day."
+2026-04-03,4,Charger,"Love it, using it every day."
+2026-04-03,5,Smart Watch,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-04-03,5,Charger,"Exactly as described, works perfectly."
+2026-04-03,5,Charger,Customer support answered fast and fixed my question.
+2026-04-03,2,Headphones,Package was delayed and the courier left it outside.
+2026-04-03,2,Headphones,Build quality is poor and the buttons stick.
+2026-04-03,4,Smart Watch,"Love it, using it every day."
+2026-04-04,4,Headphones,Setup was easy and it feels well built.
+2026-04-04,5,Smart Watch,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-04-04,5,Smart Watch,Setup was easy and it feels well built.
+2026-04-04,1,Charger,"Not worth the money, competitors are cheaper. Decent product, a few small annoyances."
+2026-04-04,5,Smart Watch,"Love it, using it every day."
+2026-04-04,4,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-04-04,5,Smart Watch,Great sound quality and very comfortable.
+2026-04-05,5,Smart Watch,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-04-05,2,Smart Watch,Support never replied to my emails.
+2026-04-05,5,Charger,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-04-05,5,Charger,"Excellent value for the price, would buy again."
+2026-04-06,1,Headphones,"Stopped working after a month, feels cheap."
+2026-04-06,5,Headphones,Customer support answered fast and fixed my question.
+2026-04-06,5,Smart Watch,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-04-06,2,Speaker,Package was delayed and the courier left it outside. Average quality for the price.
+2026-04-07,4,Smart Watch,Great sound quality and very comfortable.
+2026-04-07,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-04-07,4,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-04-07,5,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-04-07,4,Speaker,Setup was easy and it feels well built.
+2026-04-08,5,Speaker,"Excellent value for the price, would buy again."
+2026-04-08,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-04-08,3,Headphones,"Decent product, a few small annoyances."
+2026-04-08,3,Charger,"Decent product, a few small annoyances."
+2026-04-08,3,Charger,"It's okay, does what it says but nothing special."
+2026-04-09,5,Charger,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-04-09,5,Charger,Great sound quality and very comfortable.
+2026-04-09,5,Headphones,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-04-09,4,Headphones,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-04-10,4,Charger,"Exactly as described, works perfectly. Love it, using it every day."
+2026-04-10,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-04-10,5,Smart Watch,Great sound quality and very comfortable.
+2026-04-10,4,Speaker,Customer support answered fast and fixed my question.
+2026-04-10,4,Charger,"Excellent value for the price, would buy again."
+2026-04-11,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-04-11,5,Smart Watch,"Setup was easy and it feels well built. Love it, using it every day."
+2026-04-11,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-11,5,Smart Watch,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-04-11,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-11,5,Smart Watch,"Exactly as described, works perfectly."
+2026-04-12,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-12,5,Speaker,"Exactly as described, works perfectly."
+2026-04-12,4,Speaker,"Excellent value for the price, would buy again."
+2026-04-12,5,Charger,"Excellent value for the price, would buy again."
+2026-04-12,2,Charger,Build quality is poor and the buttons stick.
+2026-04-13,1,Smart Watch,Waited three weeks for a replacement that never came.
+2026-04-13,3,Charger,Average quality for the price.
+2026-04-13,5,Charger,"Excellent value for the price, would buy again."
+2026-04-13,5,Charger,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-04-13,5,Speaker,"Exactly as described, works perfectly."
+2026-04-13,5,Speaker,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-04-13,5,Smart Watch,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-04-13,4,Smart Watch,Setup was easy and it feels well built.
+2026-04-13,1,Smart Watch,"Shipping took forever, tracking never updated."
+2026-04-14,5,Charger,Setup was easy and it feels well built.
+2026-04-14,3,Speaker,Average quality for the price.
+2026-04-14,5,Smart Watch,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-04-14,5,Smart Watch,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-04-14,4,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-04-15,5,Headphones,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-04-15,5,Headphones,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-04-15,5,Smart Watch,Great sound quality and very comfortable.
+2026-04-15,4,Speaker,"Excellent value for the price, would buy again."
+2026-04-16,1,Headphones,Support never replied to my emails.
+2026-04-17,4,Headphones,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-04-17,5,Speaker,Setup was easy and it feels well built.
+2026-04-17,1,Charger,Waited three weeks for a replacement that never came.
+2026-04-17,4,Smart Watch,"Love it, using it every day."
+2026-04-18,5,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-04-18,4,Charger,"Love it, using it every day."
+2026-04-18,5,Headphones,"Exactly as described, works perfectly."
+2026-04-18,5,Speaker,Great sound quality and very comfortable.
+2026-04-18,1,Headphones,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2026-04-19,5,Headphones,"Love it, using it every day. Exactly as described, works perfectly."
+2026-04-20,2,Speaker,Build quality is poor and the buttons stick. Average quality for the price.
+2026-04-20,1,Charger,Build quality is poor and the buttons stick.
+2026-04-20,5,Charger,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-04-20,4,Speaker,Customer support answered fast and fixed my question.
+2026-04-20,5,Speaker,"Love it, using it every day."
+2026-04-21,3,Charger,"Decent product, a few small annoyances."
+2026-04-21,5,Headphones,"Love it, using it every day."
+2026-04-21,4,Charger,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-04-21,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-04-21,4,Smart Watch,Great sound quality and very comfortable.
+2026-04-22,1,Headphones,"Shipping took forever, tracking never updated."
+2026-04-22,2,Charger,"Used to last days, now I have to charge it constantly."
+2026-04-22,5,Charger,"Exactly as described, works perfectly."
+2026-04-23,5,Headphones,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-04-23,5,Charger,"Excellent value for the price, would buy again."
+2026-04-23,5,Charger,Setup was easy and it feels well built.
+2026-04-23,5,Speaker,Customer support answered fast and fixed my question.
+2026-04-24,5,Smart Watch,"Exactly as described, works perfectly."
+2026-04-24,4,Charger,"Love it, using it every day."
+2026-04-24,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-04-24,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-04-25,4,Speaker,"Love it, using it every day."
+2026-04-25,2,Charger,"Battery barely lasts half a day since the update. It's okay, does what it says but nothing special."
+2026-04-26,4,Smart Watch,Customer support answered fast and fixed my question.
+2026-04-26,2,Smart Watch,Package was delayed and the courier left it outside.
+2026-04-26,5,Smart Watch,"Love it, using it every day."
+2026-04-27,3,Charger,Average quality for the price.
+2026-04-27,2,Smart Watch,"Stopped working after a month, feels cheap."
+2026-04-27,5,Headphones,Setup was easy and it feels well built.
+2026-04-28,3,Speaker,"Decent product, a few small annoyances."
+2026-04-28,2,Headphones,Package was delayed and the courier left it outside.
+2026-04-28,4,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-04-28,4,Smart Watch,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-04-28,1,Headphones,"Stopped working after a month, feels cheap. Decent product, a few small annoyances."
+2026-04-28,5,Smart Watch,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-04-28,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-04-29,1,Speaker,Package was delayed and the courier left it outside.
+2026-04-29,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-04-29,2,Smart Watch,Support never replied to my emails.
+2026-04-29,1,Charger,"Not worth the money, competitors are cheaper."
+2026-04-29,4,Speaker,Customer support answered fast and fixed my question.
+2026-04-29,5,Headphones,"Love it, using it every day."
+2026-04-29,4,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2026-04-29,5,Headphones,"Excellent value for the price, would buy again."
+2026-04-30,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-04-30,5,Smart Watch,Great sound quality and very comfortable.
+2026-05-01,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-05-01,5,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-05-01,5,Charger,Great sound quality and very comfortable.
+2026-05-01,5,Smart Watch,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-05-01,4,Speaker,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-05-01,1,Charger,"Stopped working after a month, feels cheap."
+2026-05-02,5,Speaker,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-05-02,3,Headphones,Average quality for the price.
+2026-05-02,5,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-05-02,5,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-05-02,5,Speaker,"Exactly as described, works perfectly."
+2026-05-02,5,Charger,"Excellent value for the price, would buy again."
+2026-05-03,4,Charger,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-05-03,5,Speaker,Customer support answered fast and fixed my question.
+2026-05-03,5,Smart Watch,"Exactly as described, works perfectly."
+2026-05-03,4,Speaker,Great sound quality and very comfortable.
+2026-05-04,5,Headphones,Setup was easy and it feels well built.
+2026-05-05,4,Smart Watch,"Setup was easy and it feels well built. Love it, using it every day."
+2026-05-05,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-05-05,5,Smart Watch,"Exactly as described, works perfectly."
+2026-05-05,5,Speaker,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-05-05,5,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-05-05,5,Charger,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-05-05,4,Smart Watch,"Love it, using it every day."
+2026-05-06,5,Smart Watch,Setup was easy and it feels well built.
+2026-05-06,5,Charger,"Great sound quality and very comfortable. Love it, using it every day."
+2026-05-06,5,Headphones,"Excellent value for the price, would buy again."
+2026-05-07,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-05-07,4,Headphones,"Love it, using it every day."
+2026-05-07,4,Charger,"Exactly as described, works perfectly."
+2026-05-07,5,Charger,Great sound quality and very comfortable.
+2026-05-08,5,Headphones,Customer support answered fast and fixed my question.
+2026-05-08,5,Headphones,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-05-08,2,Smart Watch,Way overpriced for what you get.
+2026-05-08,1,Headphones,"Stopped working after a month, feels cheap. Decent product, a few small annoyances."
+2026-05-08,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-05-08,4,Headphones,"Love it, using it every day."
+2026-05-08,3,Smart Watch,"Decent product, a few small annoyances."
+2026-05-08,5,Headphones,"Love it, using it every day. Setup was easy and it feels well built."
+2026-05-08,3,Speaker,"Decent product, a few small annoyances."
+2026-05-08,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-05-08,5,Smart Watch,"Love it, using it every day. Great sound quality and very comfortable."
+2026-05-08,2,Charger,"Stopped working after a month, feels cheap."
+2026-05-09,5,Headphones,"Love it, using it every day. Great sound quality and very comfortable."
+2026-05-09,1,Smart Watch,Build quality is poor and the buttons stick.
+2026-05-09,2,Charger,Arrived two weeks late and the box was damaged.
+2026-05-09,4,Speaker,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-05-09,5,Smart Watch,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-05-09,5,Headphones,"Love it, using it every day. Setup was easy and it feels well built."
+2026-05-09,5,Speaker,"Excellent value for the price, would buy again."
+2026-05-09,2,Speaker,"Not worth the money, competitors are cheaper. Average quality for the price."
+2026-05-10,4,Speaker,Setup was easy and it feels well built.
+2026-05-10,5,Charger,Customer support answered fast and fixed my question.
+2026-05-11,2,Headphones,Package was delayed and the courier left it outside.
+2026-05-11,4,Headphones,"Love it, using it every day."
+2026-05-11,4,Headphones,"Excellent value for the price, would buy again."
+2026-05-11,4,Charger,"Excellent value for the price, would buy again."
+2026-05-11,5,Smart Watch,Great sound quality and very comfortable.
+2026-05-11,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-05-11,4,Headphones,"Exactly as described, works perfectly."
+2026-05-12,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-05-12,3,Headphones,"It's okay, does what it says but nothing special."
+2026-05-12,2,Smart Watch,"Stopped working after a month, feels cheap."
+2026-05-12,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-05-12,4,Charger,Customer support answered fast and fixed my question.
+2026-05-13,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-05-13,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-05-13,5,Headphones,"Exactly as described, works perfectly."
+2026-05-13,5,Headphones,Setup was easy and it feels well built.
+2026-05-13,5,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-05-13,4,Smart Watch,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-05-13,4,Speaker,Great sound quality and very comfortable.
+2026-05-14,5,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-05-14,5,Headphones,"Excellent value for the price, would buy again."
+2026-05-14,4,Smart Watch,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-05-14,4,Smart Watch,"Great sound quality and very comfortable. Love it, using it every day."
+2026-05-14,5,Charger,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-05-15,5,Smart Watch,"Love it, using it every day."
+2026-05-15,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-05-15,3,Smart Watch,Average quality for the price.
+2026-05-15,5,Headphones,"Excellent value for the price, would buy again."
+2026-05-15,4,Headphones,Setup was easy and it feels well built.
+2026-05-15,4,Smart Watch,"Exactly as described, works perfectly."
+2026-05-15,4,Charger,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-05-15,5,Smart Watch,"Exactly as described, works perfectly."
+2026-05-15,5,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-05-15,4,Speaker,Great sound quality and very comfortable.
+2026-05-15,5,Charger,"Exactly as described, works perfectly."
+2026-05-15,5,Speaker,Customer support answered fast and fixed my question.
+2026-05-15,2,Smart Watch,"Stopped working after a month, feels cheap."
+2026-05-16,2,Smart Watch,"Package was delayed and the courier left it outside. It's okay, does what it says but nothing special."
+2026-05-16,5,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2026-05-16,5,Smart Watch,Great sound quality and very comfortable.
+2026-05-16,5,Speaker,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-05-16,5,Speaker,"Setup was easy and it feels well built. Love it, using it every day."
+2026-05-16,4,Charger,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-05-16,5,Charger,Great sound quality and very comfortable.
+2026-05-16,5,Headphones,Great sound quality and very comfortable.
+2026-05-17,5,Headphones,Great sound quality and very comfortable.
+2026-05-17,5,Headphones,Setup was easy and it feels well built.
+2026-05-17,4,Smart Watch,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-05-17,5,Headphones,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-05-17,5,Speaker,"Love it, using it every day."
+2026-05-17,5,Smart Watch,"Great sound quality and very comfortable. Love it, using it every day."
+2026-05-17,5,Speaker,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-05-17,5,Charger,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-05-17,5,Speaker,Customer support answered fast and fixed my question.
+2026-05-18,4,Charger,Great sound quality and very comfortable.
+2026-05-18,1,Headphones,Support never replied to my emails.
+2026-05-19,5,Headphones,Customer support answered fast and fixed my question.
+2026-05-19,4,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2026-05-19,2,Smart Watch,Build quality is poor and the buttons stick.
+2026-05-19,5,Speaker,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-05-20,5,Smart Watch,Great sound quality and very comfortable.
+2026-05-20,2,Charger,Way overpriced for what you get.
+2026-05-20,4,Charger,Customer support answered fast and fixed my question.
+2026-05-20,2,Headphones,Support never replied to my emails.
+2026-05-20,2,Smart Watch,Way overpriced for what you get.
+2026-05-20,3,Speaker,Average quality for the price.
+2026-05-20,5,Speaker,Setup was easy and it feels well built.
+2026-05-21,2,Speaker,Battery drains overnight even when I'm not using it.
+2026-05-21,5,Smart Watch,Great sound quality and very comfortable.
+2026-05-21,3,Smart Watch,"Decent product, a few small annoyances."
+2026-05-21,5,Speaker,"Love it, using it every day."
+2026-05-21,1,Charger,"Used to last days, now I have to charge it constantly."
+2026-05-21,5,Smart Watch,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-05-21,5,Smart Watch,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-05-21,4,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2026-05-22,5,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-05-22,5,Charger,"Love it, using it every day."
+2026-05-22,1,Headphones,Package was delayed and the courier left it outside.
+2026-05-22,5,Speaker,"Exactly as described, works perfectly."
+2026-05-22,1,Smart Watch,Build quality is poor and the buttons stick.
+2026-05-23,1,Headphones,"Stopped working after a month, feels cheap. It's okay, does what it says but nothing special."
+2026-05-23,5,Speaker,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-05-23,4,Headphones,Setup was easy and it feels well built.
+2026-05-24,5,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-05-24,3,Headphones,"It's okay, does what it says but nothing special."
+2026-05-24,3,Headphones,"Decent product, a few small annoyances."
+2026-05-24,1,Smart Watch,Support never replied to my emails.
+2026-05-25,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2026-05-25,3,Charger,"Decent product, a few small annoyances."
+2026-05-25,5,Speaker,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-05-25,2,Headphones,Waited three weeks for a replacement that never came.
+2026-05-25,2,Charger,Way overpriced for what you get. Average quality for the price.
+2026-05-26,5,Smart Watch,"Love it, using it every day."
+2026-05-26,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-05-26,5,Charger,"Love it, using it every day."
+2026-05-26,5,Speaker,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-05-26,2,Smart Watch,"Not worth the money, competitors are cheaper."
+2026-05-26,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-05-27,4,Charger,Customer support answered fast and fixed my question.
+2026-05-27,3,Speaker,Average quality for the price.
+2026-05-28,5,Charger,"Love it, using it every day."
+2026-05-28,4,Smart Watch,Great sound quality and very comfortable.
+2026-05-28,5,Speaker,"Excellent value for the price, would buy again."
+2026-05-28,4,Smart Watch,"Love it, using it every day."
+2026-05-28,5,Charger,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-05-29,1,Charger,"The strap broke within weeks. It's okay, does what it says but nothing special."
+2026-05-29,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-05-30,3,Charger,Average quality for the price.
+2026-05-30,5,Headphones,"Love it, using it every day."
+2026-05-30,4,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2026-05-31,2,Smart Watch,Package was delayed and the courier left it outside.
+2026-05-31,5,Smart Watch,"Exactly as described, works perfectly."
+2026-05-31,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-05-31,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2026-05-31,3,Headphones,"Decent product, a few small annoyances."
+2026-05-31,4,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-06-01,5,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-06-01,3,Speaker,Average quality for the price.
+2026-06-01,5,Smart Watch,"Love it, using it every day. Setup was easy and it feels well built."
+2026-06-01,5,Charger,"Exactly as described, works perfectly."
+2026-06-01,5,Speaker,"Love it, using it every day. Exactly as described, works perfectly."
+2026-06-01,4,Charger,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-06-02,2,Headphones,Waited three weeks for a replacement that never came.
+2026-06-02,1,Speaker,Build quality is poor and the buttons stick.
+2026-06-02,1,Smart Watch,Arrived two weeks late and the box was damaged.
+2026-06-02,5,Speaker,Great sound quality and very comfortable.
+2026-06-03,4,Charger,"Excellent value for the price, would buy again."
+2026-06-04,2,Speaker,"Stopped working after a month, feels cheap."
+2026-06-04,4,Charger,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-06-04,4,Smart Watch,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-06-04,2,Headphones,Waited three weeks for a replacement that never came.
+2026-06-04,3,Headphones,"Decent product, a few small annoyances."
+2026-06-04,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-06-05,5,Charger,"Exactly as described, works perfectly."
+2026-06-05,3,Headphones,Average quality for the price.
+2026-06-05,2,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-06-06,2,Smart Watch,"Support never replied to my emails. It's okay, does what it says but nothing special."
+2026-06-06,4,Charger,Great sound quality and very comfortable.
+2026-06-06,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-06-06,2,Smart Watch,The strap broke within weeks.
+2026-06-06,3,Smart Watch,"Decent product, a few small annoyances."
+2026-06-06,5,Charger,"Love it, using it every day. Setup was easy and it feels well built."
+2026-06-06,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-06-06,4,Headphones,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-06-07,5,Speaker,"Exactly as described, works perfectly."
+2026-06-07,4,Speaker,"Excellent value for the price, would buy again."
+2026-06-07,2,Smart Watch,"Battery drains overnight even when I'm not using it. Decent product, a few small annoyances."
+2026-06-07,4,Speaker,"Exactly as described, works perfectly."
+2026-06-07,2,Smart Watch,Battery barely lasts half a day since the update. Average quality for the price.
+2026-06-07,3,Smart Watch,Average quality for the price.
+2026-06-08,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-08,2,Speaker,"Waited three weeks for a replacement that never came. It's okay, does what it says but nothing special."
+2026-06-08,5,Headphones,Customer support answered fast and fixed my question.
+2026-06-09,5,Headphones,Customer support answered fast and fixed my question.
+2026-06-09,5,Headphones,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-06-09,3,Headphones,"It's okay, does what it says but nothing special."
+2026-06-09,5,Speaker,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-06-09,5,Smart Watch,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-09,5,Smart Watch,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-06-10,2,Smart Watch,The strap broke within weeks. Average quality for the price.
+2026-06-10,5,Smart Watch,"Exactly as described, works perfectly."
+2026-06-10,2,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2026-06-10,4,Charger,"Exactly as described, works perfectly."
+2026-06-10,4,Headphones,"Excellent value for the price, would buy again."
+2026-06-10,4,Headphones,Customer support answered fast and fixed my question.
+2026-06-11,2,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2026-06-11,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-06-11,3,Speaker,Average quality for the price.
+2026-06-11,4,Speaker,"Exactly as described, works perfectly."
+2026-06-11,2,Headphones,Arrived two weeks late and the box was damaged.
+2026-06-11,5,Speaker,Setup was easy and it feels well built.
+2026-06-12,5,Charger,"Excellent value for the price, would buy again."
+2026-06-12,4,Smart Watch,"Great sound quality and very comfortable. Love it, using it every day."
+2026-06-13,5,Headphones,Customer support answered fast and fixed my question.
+2026-06-13,5,Speaker,Setup was easy and it feels well built.
+2026-06-13,2,Smart Watch,"Shipping took forever, tracking never updated. Average quality for the price."
+2026-06-14,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-14,3,Speaker,"It's okay, does what it says but nothing special."
+2026-06-14,4,Smart Watch,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-06-14,3,Speaker,"Decent product, a few small annoyances."
+2026-06-14,1,Charger,"Not worth the money, competitors are cheaper."
+2026-06-14,3,Charger,Average quality for the price.
+2026-06-15,2,Smart Watch,"Stopped working after a month, feels cheap. Decent product, a few small annoyances."
+2026-06-15,5,Speaker,Great sound quality and very comfortable.
+2026-06-15,5,Charger,"Love it, using it every day. Great sound quality and very comfortable."
+2026-06-15,5,Headphones,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-06-15,5,Speaker,Great sound quality and very comfortable.
+2026-06-15,2,Smart Watch,The strap broke within weeks.
+2026-06-15,1,Charger,"Shipping took forever, tracking never updated. It's okay, does what it says but nothing special."
+2026-06-15,5,Headphones,"Love it, using it every day."
+2026-06-15,5,Speaker,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-06-15,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2026-06-16,4,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-06-16,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-06-16,5,Headphones,"Excellent value for the price, would buy again."
+2026-06-16,5,Smart Watch,"Exactly as described, works perfectly."
+2026-06-16,3,Smart Watch,"Decent product, a few small annoyances."
+2026-06-17,4,Charger,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-06-17,5,Charger,"Love it, using it every day."
+2026-06-17,5,Speaker,"Love it, using it every day."
+2026-06-17,3,Headphones,"Decent product, a few small annoyances."
+2026-06-17,5,Speaker,"Exactly as described, works perfectly."
+2026-06-18,5,Charger,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-18,5,Speaker,"Exactly as described, works perfectly."
+2026-06-18,1,Smart Watch,Package was delayed and the courier left it outside. Average quality for the price.
+2026-06-18,2,Headphones,"Support never replied to my emails. Decent product, a few small annoyances."
+2026-06-19,3,Charger,"Decent product, a few small annoyances."
+2026-06-19,4,Speaker,"Exactly as described, works perfectly."
+2026-06-19,5,Headphones,Great sound quality and very comfortable.
+2026-06-19,5,Smart Watch,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-06-19,5,Speaker,Customer support answered fast and fixed my question.
+2026-06-20,5,Smart Watch,"Exactly as described, works perfectly."
+2026-06-20,5,Smart Watch,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-06-20,5,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2026-06-20,2,Smart Watch,Battery barely lasts half a day since the update.
+2026-06-21,5,Headphones,"Love it, using it every day. Great sound quality and very comfortable."
+2026-06-21,2,Smart Watch,"Battery drains overnight even when I'm not using it. It's okay, does what it says but nothing special."
+2026-06-22,5,Speaker,Great sound quality and very comfortable.
+2026-06-22,5,Charger,"Excellent value for the price, would buy again."
+2026-06-22,5,Charger,Customer support answered fast and fixed my question.
+2026-06-22,5,Speaker,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-06-22,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-06-23,5,Speaker,"Love it, using it every day."
+2026-06-23,1,Charger,"Not worth the money, competitors are cheaper. Average quality for the price."
+2026-06-23,5,Headphones,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-06-23,4,Smart Watch,"Love it, using it every day."
+2026-06-24,5,Headphones,"Excellent value for the price, would buy again."
+2026-06-24,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-24,5,Headphones,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-06-24,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-06-24,5,Charger,Setup was easy and it feels well built.
+2026-06-25,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-06-25,5,Headphones,"Excellent value for the price, would buy again."
+2026-06-26,3,Charger,"Decent product, a few small annoyances."
+2026-06-26,3,Charger,"Decent product, a few small annoyances."
+2026-06-26,4,Charger,"Exactly as described, works perfectly."
+2026-06-26,1,Headphones,"Stopped working after a month, feels cheap."
+2026-06-26,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-06-26,5,Charger,Great sound quality and very comfortable.
+2026-06-26,5,Smart Watch,"Love it, using it every day."
+2026-06-27,5,Speaker,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-06-27,2,Headphones,Way overpriced for what you get.
+2026-06-27,3,Speaker,"It's okay, does what it says but nothing special."
+2026-06-27,4,Headphones,"Excellent value for the price, would buy again."
+2026-06-27,4,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-06-27,1,Speaker,"Build quality is poor and the buttons stick. Decent product, a few small annoyances."
+2026-06-28,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-06-28,4,Smart Watch,Great sound quality and very comfortable.
+2026-06-28,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-06-28,5,Speaker,"Excellent value for the price, would buy again."
+2026-06-29,5,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-06-29,1,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2026-06-29,3,Headphones,"Decent product, a few small annoyances."
+2026-06-29,1,Charger,Support never replied to my emails.
+2026-06-29,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2026-06-29,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-06-29,2,Charger,"Way overpriced for what you get. Decent product, a few small annoyances."
+2026-06-29,4,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-06-30,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-06-30,1,Charger,Battery drains overnight even when I'm not using it.
+2026-06-30,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-06-30,4,Charger,Setup was easy and it feels well built.
+2026-06-30,5,Smart Watch,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-07-01,2,Headphones,"Stopped working after a month, feels cheap. Decent product, a few small annoyances."
+2026-07-01,4,Speaker,Setup was easy and it feels well built.
+2026-07-01,5,Speaker,Setup was easy and it feels well built.
+2026-07-01,5,Headphones,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-07-01,4,Headphones,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-07-01,5,Headphones,Setup was easy and it feels well built.
+2026-07-02,4,Headphones,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-07-02,5,Speaker,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-07-02,2,Smart Watch,Battery barely lasts half a day since the update.
+2026-07-03,1,Charger,"The strap broke within weeks. Decent product, a few small annoyances."
+2026-07-03,5,Headphones,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-07-03,5,Smart Watch,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-07-03,2,Headphones,Way overpriced for what you get.
+2026-07-04,5,Charger,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-07-04,5,Headphones,"Exactly as described, works perfectly."
+2026-07-04,5,Headphones,"Excellent value for the price, would buy again."
+2026-07-04,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-07-04,5,Smart Watch,Great sound quality and very comfortable.
+2026-07-04,5,Speaker,"Excellent value for the price, would buy again."
+2026-07-04,5,Smart Watch,"Love it, using it every day. Great sound quality and very comfortable."
+2026-07-04,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-07-04,5,Speaker,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-07-05,5,Speaker,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-07-05,5,Smart Watch,"Exactly as described, works perfectly."
+2026-07-05,4,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-07-05,5,Speaker,Great sound quality and very comfortable.
+2026-07-05,2,Speaker,"Stopped working after a month, feels cheap."
+2026-07-06,4,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-07-06,5,Headphones,Setup was easy and it feels well built.
+2026-07-06,2,Smart Watch,"Support never replied to my emails. It's okay, does what it says but nothing special."
+2026-07-06,5,Speaker,Customer support answered fast and fixed my question.
+2026-07-06,5,Headphones,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-07-07,4,Speaker,"Exactly as described, works perfectly. Love it, using it every day."
+2026-07-07,5,Speaker,"Exactly as described, works perfectly."
+2026-07-08,5,Charger,"Exactly as described, works perfectly."
+2026-07-08,4,Speaker,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-07-08,5,Headphones,"Exactly as described, works perfectly."
+2026-07-09,4,Speaker,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-07-09,2,Smart Watch,"Battery drains overnight even when I'm not using it. It's okay, does what it says but nothing special."
+2026-07-09,2,Smart Watch,Battery drains overnight even when I'm not using it. Average quality for the price.
+2026-07-09,2,Charger,"Shipping took forever, tracking never updated."
+2026-07-09,5,Headphones,"Exactly as described, works perfectly."
+2026-07-09,5,Smart Watch,Great sound quality and very comfortable.
+2026-07-09,1,Headphones,Build quality is poor and the buttons stick.
+2026-07-09,2,Headphones,Way overpriced for what you get.
+2026-07-09,5,Speaker,Customer support answered fast and fixed my question.
+2026-07-10,2,Headphones,"Shipping took forever, tracking never updated."
+2026-07-10,3,Charger,Average quality for the price.
+2026-07-10,2,Headphones,Package was delayed and the courier left it outside.
+2026-07-10,3,Smart Watch,"Decent product, a few small annoyances."
+2026-07-11,3,Speaker,"Decent product, a few small annoyances."
+2026-07-11,5,Speaker,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-07-11,5,Speaker,Great sound quality and very comfortable.
+2026-07-11,5,Speaker,Great sound quality and very comfortable.
+2026-07-11,2,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-07-11,4,Headphones,Customer support answered fast and fixed my question.
+2026-07-13,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-07-13,2,Speaker,"Not worth the money, competitors are cheaper."
+2026-07-13,2,Charger,Arrived two weeks late and the box was damaged.
+2026-07-13,4,Speaker,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-07-13,5,Headphones,"Love it, using it every day. Exactly as described, works perfectly."
+2026-07-13,4,Speaker,"Exactly as described, works perfectly."
+2026-07-13,4,Charger,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-07-13,5,Speaker,"Excellent value for the price, would buy again."
+2026-07-14,5,Speaker,Great sound quality and very comfortable.
+2026-07-14,5,Speaker,"Exactly as described, works perfectly."
+2026-07-14,4,Speaker,"Love it, using it every day."
+2026-07-14,5,Smart Watch,Customer support answered fast and fixed my question. Great sound quality and very comfortable.
+2026-07-14,2,Headphones,Battery barely lasts half a day since the update.
+2026-07-14,5,Speaker,Setup was easy and it feels well built.
+2026-07-14,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-07-14,3,Smart Watch,"Decent product, a few small annoyances."
+2026-07-15,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2026-07-15,5,Charger,Setup was easy and it feels well built.
+2026-07-15,2,Speaker,Waited three weeks for a replacement that never came.
+2026-07-15,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-07-15,5,Speaker,Setup was easy and it feels well built.
+2026-07-15,5,Charger,Setup was easy and it feels well built.
+2026-07-15,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-07-15,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-07-15,3,Charger,Average quality for the price.
+2026-07-15,4,Charger,"Love it, using it every day."
+2026-07-15,5,Headphones,Customer support answered fast and fixed my question.
+2026-07-16,3,Headphones,Average quality for the price.
+2026-07-16,3,Headphones,"Decent product, a few small annoyances."
+2026-07-16,4,Headphones,Great sound quality and very comfortable.
+2026-07-16,5,Charger,"Exactly as described, works perfectly."
+2026-07-16,5,Charger,"Love it, using it every day. Great sound quality and very comfortable."
+2026-07-16,5,Speaker,"Love it, using it every day."
+2026-07-16,1,Headphones,"Not worth the money, competitors are cheaper."
+2026-07-17,4,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-07-17,5,Speaker,"Exactly as described, works perfectly."
+2026-07-17,5,Speaker,"Excellent value for the price, would buy again."
+2026-07-17,4,Charger,"Excellent value for the price, would buy again."
+2026-07-18,1,Headphones,Arrived two weeks late and the box was damaged.
+2026-07-18,4,Charger,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-07-19,4,Smart Watch,Setup was easy and it feels well built.
+2026-07-19,1,Headphones,"Shipping took forever, tracking never updated."
+2026-07-19,3,Speaker,"It's okay, does what it says but nothing special."
+2026-07-19,5,Speaker,"Setup was easy and it feels well built. Love it, using it every day."
+2026-07-19,3,Speaker,Average quality for the price.
+2026-07-19,1,Smart Watch,"Build quality is poor and the buttons stick. It's okay, does what it says but nothing special."
+2026-07-19,1,Charger,"Not worth the money, competitors are cheaper. Decent product, a few small annoyances."
+2026-07-20,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-07-20,3,Smart Watch,"Decent product, a few small annoyances."
+2026-07-20,5,Smart Watch,Setup was easy and it feels well built.
+2026-07-20,5,Speaker,"Excellent value for the price, would buy again."
+2026-07-20,1,Charger,Waited three weeks for a replacement that never came.
+2026-07-20,5,Speaker,Great sound quality and very comfortable.
+2026-07-21,4,Headphones,"Exactly as described, works perfectly."
+2026-07-21,1,Smart Watch,Waited three weeks for a replacement that never came.
+2026-07-21,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-07-21,2,Speaker,"Way overpriced for what you get. It's okay, does what it says but nothing special."
+2026-07-22,3,Headphones,Average quality for the price.
+2026-07-22,5,Speaker,Great sound quality and very comfortable.
+2026-07-22,5,Speaker,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-07-22,5,Charger,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-07-22,5,Charger,Great sound quality and very comfortable.
+2026-07-22,2,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2026-07-22,5,Speaker,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-07-22,2,Charger,"Used to last days, now I have to charge it constantly. It's okay, does what it says but nothing special."
+2026-07-22,2,Charger,"Not worth the money, competitors are cheaper."
+2026-07-23,5,Speaker,Setup was easy and it feels well built.
+2026-07-23,2,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-07-23,3,Smart Watch,Average quality for the price.
+2026-07-23,5,Speaker,Customer support answered fast and fixed my question.
+2026-07-23,1,Smart Watch,"Shipping took forever, tracking never updated. Average quality for the price."
+2026-07-23,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-07-23,5,Headphones,Setup was easy and it feels well built.
+2026-07-24,5,Speaker,"Love it, using it every day."
+2026-07-24,5,Charger,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-07-24,2,Speaker,"Stopped working after a month, feels cheap."
+2026-07-24,3,Smart Watch,"Decent product, a few small annoyances."
+2026-07-24,4,Charger,"Love it, using it every day."
+2026-07-24,5,Headphones,"Love it, using it every day. Exactly as described, works perfectly."
+2026-07-25,2,Smart Watch,"Way overpriced for what you get. It's okay, does what it says but nothing special."
+2026-07-25,3,Speaker,Average quality for the price.
+2026-07-25,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-07-26,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-07-26,5,Speaker,"Love it, using it every day."
+2026-07-27,5,Charger,Setup was easy and it feels well built.
+2026-07-27,4,Headphones,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-07-27,5,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-07-27,5,Headphones,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-07-27,5,Headphones,Customer support answered fast and fixed my question.
+2026-07-28,5,Speaker,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-07-28,5,Headphones,"Love it, using it every day. Exactly as described, works perfectly."
+2026-07-28,5,Headphones,"Exactly as described, works perfectly. Love it, using it every day."
+2026-07-28,5,Speaker,"Exactly as described, works perfectly."
+2026-07-28,5,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-07-28,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-07-28,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-07-28,5,Smart Watch,Great sound quality and very comfortable.
+2026-07-29,5,Headphones,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-07-29,2,Smart Watch,"Battery barely lasts half a day since the update. Decent product, a few small annoyances."
+2026-07-30,5,Headphones,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-07-30,5,Headphones,"Love it, using it every day."
+2026-07-30,5,Charger,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-07-30,5,Headphones,"Exactly as described, works perfectly."
+2026-07-30,5,Speaker,"Exactly as described, works perfectly."
+2026-07-31,5,Speaker,"Love it, using it every day."
+2026-07-31,1,Smart Watch,"Stopped working after a month, feels cheap. Decent product, a few small annoyances."
+2026-07-31,5,Speaker,Setup was easy and it feels well built.
+2026-08-01,2,Headphones,The strap broke within weeks.
+2026-08-01,4,Smart Watch,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-08-02,5,Headphones,Setup was easy and it feels well built.
+2026-08-02,3,Speaker,Average quality for the price.
+2026-08-02,2,Speaker,Way overpriced for what you get.
+2026-08-02,4,Speaker,Great sound quality and very comfortable.
+2026-08-02,5,Headphones,"Love it, using it every day. Setup was easy and it feels well built."
+2026-08-02,5,Speaker,Customer support answered fast and fixed my question.
+2026-08-02,3,Headphones,"Decent product, a few small annoyances."
+2026-08-03,5,Speaker,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-08-03,5,Headphones,Setup was easy and it feels well built.
+2026-08-03,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-08-04,3,Headphones,"It's okay, does what it says but nothing special."
+2026-08-04,3,Charger,"It's okay, does what it says but nothing special."
+2026-08-04,4,Charger,"Excellent value for the price, would buy again."
+2026-08-04,2,Smart Watch,"Used to last days, now I have to charge it constantly. It's okay, does what it says but nothing special."
+2026-08-05,5,Headphones,"Exactly as described, works perfectly."
+2026-08-05,3,Headphones,Average quality for the price.
+2026-08-05,5,Speaker,Customer support answered fast and fixed my question.
+2026-08-05,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-08-05,2,Charger,"Not worth the money, competitors are cheaper."
+2026-08-05,5,Headphones,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-08-05,1,Smart Watch,"Battery barely lasts half a day since the update. Decent product, a few small annoyances."
+2026-08-05,1,Smart Watch,"Used to last days, now I have to charge it constantly. Average quality for the price."
+2026-08-05,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-08-06,3,Headphones,Average quality for the price.
+2026-08-06,5,Speaker,"Excellent value for the price, would buy again."
+2026-08-06,2,Smart Watch,"Stopped working after a month, feels cheap."
+2026-08-06,4,Speaker,"Love it, using it every day. Great sound quality and very comfortable."
+2026-08-06,5,Headphones,Customer support answered fast and fixed my question.
+2026-08-07,5,Speaker,Great sound quality and very comfortable.
+2026-08-07,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-08-07,5,Headphones,Customer support answered fast and fixed my question.
+2026-08-07,5,Charger,"Love it, using it every day."
+2026-08-08,1,Smart Watch,"Battery drains overnight even when I'm not using it. It's okay, does what it says but nothing special."
+2026-08-08,4,Smart Watch,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-08-08,4,Charger,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-08-08,2,Speaker,"Shipping took forever, tracking never updated."
+2026-08-08,5,Headphones,"Excellent value for the price, would buy again."
+2026-08-09,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-08-09,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-08-09,5,Charger,"Exactly as described, works perfectly."
+2026-08-09,5,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2026-08-10,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-08-10,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-08-10,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-08-11,5,Headphones,Setup was easy and it feels well built.
+2026-08-11,5,Speaker,"Exactly as described, works perfectly."
+2026-08-11,3,Smart Watch,Average quality for the price.
+2026-08-11,5,Smart Watch,Setup was easy and it feels well built.
+2026-08-11,2,Speaker,Build quality is poor and the buttons stick.
+2026-08-11,5,Charger,"Love it, using it every day. Exactly as described, works perfectly."
+2026-08-11,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-08-11,5,Charger,"Love it, using it every day."
+2026-08-11,5,Smart Watch,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-08-12,5,Headphones,"Great sound quality and very comfortable. Love it, using it every day."
+2026-08-12,3,Speaker,Average quality for the price.
+2026-08-12,2,Smart Watch,Battery barely lasts half a day since the update.
+2026-08-12,5,Speaker,Customer support answered fast and fixed my question.
+2026-08-12,2,Smart Watch,"Stopped working after a month, feels cheap."
+2026-08-12,3,Headphones,"Decent product, a few small annoyances."
+2026-08-12,1,Smart Watch,Battery barely lasts half a day since the update. Average quality for the price.
+2026-08-13,4,Charger,Customer support answered fast and fixed my question.
+2026-08-13,5,Headphones,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-08-13,3,Headphones,"It's okay, does what it says but nothing special."
+2026-08-13,1,Speaker,Way overpriced for what you get.
+2026-08-13,5,Charger,Customer support answered fast and fixed my question.
+2026-08-13,5,Headphones,Great sound quality and very comfortable.
+2026-08-14,3,Smart Watch,Average quality for the price.
+2026-08-14,2,Smart Watch,The strap broke within weeks.
+2026-08-14,3,Charger,"It's okay, does what it says but nothing special."
+2026-08-14,1,Charger,"Stopped working after a month, feels cheap."
+2026-08-15,5,Headphones,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-08-16,3,Speaker,Average quality for the price.
+2026-08-16,4,Charger,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-08-16,5,Speaker,Great sound quality and very comfortable. Setup was easy and it feels well built.
+2026-08-17,5,Headphones,Customer support answered fast and fixed my question.
+2026-08-17,3,Charger,"Decent product, a few small annoyances."
+2026-08-17,5,Charger,Setup was easy and it feels well built.
+2026-08-17,3,Smart Watch,"Decent product, a few small annoyances."
+2026-08-17,4,Charger,Setup was easy and it feels well built.
+2026-08-17,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-08-17,4,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-08-18,5,Charger,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-08-18,4,Speaker,"Excellent value for the price, would buy again."
+2026-08-18,3,Charger,"Decent product, a few small annoyances."
+2026-08-18,5,Charger,Customer support answered fast and fixed my question.
+2026-08-18,4,Speaker,Customer support answered fast and fixed my question.
+2026-08-18,5,Smart Watch,Setup was easy and it feels well built.
+2026-08-19,3,Smart Watch,Average quality for the price.
+2026-08-19,1,Headphones,Support never replied to my emails.
+2026-08-19,4,Headphones,Customer support answered fast and fixed my question.
+2026-08-19,3,Headphones,Average quality for the price.
+2026-08-20,5,Smart Watch,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-08-20,5,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-08-20,5,Speaker,Customer support answered fast and fixed my question.
+2026-08-22,4,Smart Watch,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-08-22,5,Headphones,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-08-22,2,Smart Watch,Battery barely lasts half a day since the update.
+2026-08-23,5,Speaker,"Customer support answered fast and fixed my question. Excellent value for the price, would buy again."
+2026-08-23,5,Headphones,"Excellent value for the price, would buy again."
+2026-08-23,4,Headphones,"Love it, using it every day."
+2026-08-23,3,Headphones,"Decent product, a few small annoyances."
+2026-08-23,3,Speaker,Average quality for the price.
+2026-08-24,4,Headphones,"Setup was easy and it feels well built. Love it, using it every day."
+2026-08-24,4,Charger,"Exactly as described, works perfectly."
+2026-08-24,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-08-24,1,Speaker,Support never replied to my emails.
+2026-08-24,5,Charger,Customer support answered fast and fixed my question.
+2026-08-24,1,Smart Watch,"Not worth the money, competitors are cheaper."
+2026-08-24,4,Headphones,Setup was easy and it feels well built.
+2026-08-24,5,Charger,"Excellent value for the price, would buy again."
+2026-08-25,5,Headphones,"Excellent value for the price, would buy again."
+2026-08-25,5,Headphones,Setup was easy and it feels well built.
+2026-08-26,2,Smart Watch,"Battery barely lasts half a day since the update. It's okay, does what it says but nothing special."
+2026-08-26,1,Headphones,"The strap broke within weeks. It's okay, does what it says but nothing special."
+2026-08-26,5,Speaker,"Love it, using it every day."
+2026-08-26,5,Smart Watch,Setup was easy and it feels well built.
+2026-08-26,5,Speaker,"Excellent value for the price, would buy again."
+2026-08-27,4,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-08-27,5,Smart Watch,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-08-27,4,Smart Watch,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-08-27,5,Speaker,"Setup was easy and it feels well built. Excellent value for the price, would buy again."
+2026-08-27,1,Smart Watch,Battery barely lasts half a day since the update.
+2026-08-27,3,Smart Watch,"It's okay, does what it says but nothing special."
+2026-08-27,5,Speaker,Setup was easy and it feels well built.
+2026-08-28,1,Headphones,"Not worth the money, competitors are cheaper."
+2026-08-28,3,Headphones,"Decent product, a few small annoyances."
+2026-08-28,2,Smart Watch,"Battery drains overnight even when I'm not using it. Decent product, a few small annoyances."
+2026-08-28,5,Headphones,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-08-28,5,Speaker,Great sound quality and very comfortable.
+2026-08-28,2,Charger,"Way overpriced for what you get. Decent product, a few small annoyances."
+2026-08-28,4,Headphones,Setup was easy and it feels well built.
+2026-08-28,5,Speaker,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-08-29,5,Charger,"Love it, using it every day."
+2026-08-29,5,Speaker,Great sound quality and very comfortable.
+2026-08-29,5,Headphones,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-08-29,5,Speaker,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-08-29,4,Speaker,"Exactly as described, works perfectly."
+2026-08-29,5,Headphones,"Setup was easy and it feels well built. Exactly as described, works perfectly."
+2026-08-29,5,Charger,"Exactly as described, works perfectly. Setup was easy and it feels well built."
+2026-08-29,2,Smart Watch,Support never replied to my emails.
+2026-08-29,5,Speaker,"Great sound quality and very comfortable. Love it, using it every day."
+2026-08-30,5,Speaker,"Excellent value for the price, would buy again."
+2026-08-30,5,Speaker,Setup was easy and it feels well built.
+2026-08-30,5,Headphones,"Love it, using it every day."
+2026-08-30,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-08-31,5,Headphones,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-08-31,4,Headphones,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-08-31,5,Headphones,Setup was easy and it feels well built.
+2026-09-01,2,Charger,The strap broke within weeks.
+2026-09-01,5,Smart Watch,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-09-01,1,Smart Watch,Battery barely lasts half a day since the update.
+2026-09-02,5,Headphones,"Love it, using it every day."
+2026-09-02,4,Headphones,Customer support answered fast and fixed my question.
+2026-09-02,4,Smart Watch,"Great sound quality and very comfortable. Excellent value for the price, would buy again."
+2026-09-02,4,Charger,"Exactly as described, works perfectly. Love it, using it every day."
+2026-09-02,5,Speaker,"Excellent value for the price, would buy again. Setup was easy and it feels well built."
+2026-09-02,5,Speaker,"Love it, using it every day."
+2026-09-02,3,Headphones,Average quality for the price.
+2026-09-02,4,Headphones,Customer support answered fast and fixed my question.
+2026-09-02,5,Headphones,"Love it, using it every day. Great sound quality and very comfortable."
+2026-09-03,4,Charger,Great sound quality and very comfortable.
+2026-09-03,5,Charger,"Exactly as described, works perfectly."
+2026-09-03,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-09-03,5,Speaker,"Setup was easy and it feels well built. Love it, using it every day."
+2026-09-03,5,Smart Watch,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-09-03,2,Speaker,Arrived two weeks late and the box was damaged.
+2026-09-04,2,Smart Watch,"Battery drains overnight even when I'm not using it. Decent product, a few small annoyances."
+2026-09-04,1,Smart Watch,"Waited three weeks for a replacement that never came. Decent product, a few small annoyances."
+2026-09-04,4,Speaker,Customer support answered fast and fixed my question.
+2026-09-04,5,Charger,"Excellent value for the price, would buy again."
+2026-09-04,4,Speaker,"Exactly as described, works perfectly."
+2026-09-05,5,Charger,Great sound quality and very comfortable.
+2026-09-05,5,Speaker,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-09-05,2,Headphones,Build quality is poor and the buttons stick.
+2026-09-06,4,Smart Watch,Setup was easy and it feels well built.
+2026-09-06,5,Smart Watch,"Love it, using it every day."
+2026-09-06,3,Speaker,"Decent product, a few small annoyances."
+2026-09-06,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-09-06,4,Speaker,"Exactly as described, works perfectly."
+2026-09-07,5,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-09-07,4,Smart Watch,"Excellent value for the price, would buy again."
+2026-09-07,1,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-09-07,5,Charger,Customer support answered fast and fixed my question.
+2026-09-07,3,Charger,"It's okay, does what it says but nothing special."
+2026-09-08,4,Charger,"Love it, using it every day."
+2026-09-08,5,Smart Watch,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-09-08,5,Smart Watch,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-09-08,4,Headphones,"Exactly as described, works perfectly."
+2026-09-08,2,Speaker,Build quality is poor and the buttons stick.
+2026-09-09,5,Speaker,Setup was easy and it feels well built.
+2026-09-09,5,Speaker,Great sound quality and very comfortable.
+2026-09-09,2,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-09-09,5,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-09-09,4,Charger,Customer support answered fast and fixed my question.
+2026-09-10,4,Headphones,Setup was easy and it feels well built.
+2026-09-10,5,Charger,"Love it, using it every day. Exactly as described, works perfectly."
+2026-09-10,4,Headphones,"Exactly as described, works perfectly. Customer support answered fast and fixed my question."
+2026-09-10,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-09-10,5,Charger,Setup was easy and it feels well built.
+2026-09-11,4,Headphones,"Love it, using it every day."
+2026-09-11,5,Headphones,"Love it, using it every day."
+2026-09-11,5,Speaker,Setup was easy and it feels well built. Customer support answered fast and fixed my question.
+2026-09-11,3,Headphones,"Decent product, a few small annoyances."
+2026-09-11,1,Speaker,Battery barely lasts half a day since the update.
+2026-09-11,2,Smart Watch,"Shipping took forever, tracking never updated."
+2026-09-11,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-09-11,5,Speaker,"Customer support answered fast and fixed my question. Exactly as described, works perfectly."
+2026-09-12,5,Headphones,"Love it, using it every day."
+2026-09-12,4,Smart Watch,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-09-12,2,Headphones,"Shipping took forever, tracking never updated."
+2026-09-12,5,Smart Watch,Setup was easy and it feels well built.
+2026-09-13,5,Headphones,Customer support answered fast and fixed my question.
+2026-09-13,5,Speaker,Customer support answered fast and fixed my question.
+2026-09-13,2,Smart Watch,"Used to last days, now I have to charge it constantly. It's okay, does what it says but nothing special."
+2026-09-13,2,Smart Watch,Package was delayed and the courier left it outside.
+2026-09-13,5,Speaker,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-09-13,5,Headphones,"Love it, using it every day."
+2026-09-13,5,Headphones,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-09-14,3,Speaker,"It's okay, does what it says but nothing special."
+2026-09-14,3,Headphones,Average quality for the price.
+2026-09-14,5,Headphones,"Excellent value for the price, would buy again."
+2026-09-14,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-09-14,5,Charger,Customer support answered fast and fixed my question.
+2026-09-15,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-09-15,5,Smart Watch,Customer support answered fast and fixed my question.
+2026-09-15,5,Headphones,"Exactly as described, works perfectly."
+2026-09-15,4,Charger,Setup was easy and it feels well built.
+2026-09-15,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-09-15,3,Charger,"It's okay, does what it says but nothing special."
+2026-09-15,1,Headphones,Support never replied to my emails.
+2026-09-16,4,Headphones,"Exactly as described, works perfectly. Excellent value for the price, would buy again."
+2026-09-16,1,Smart Watch,Battery barely lasts half a day since the update.
+2026-09-16,4,Charger,"Excellent value for the price, would buy again."
+2026-09-16,2,Smart Watch,"Used to last days, now I have to charge it constantly. Decent product, a few small annoyances."
+2026-09-16,4,Headphones,Customer support answered fast and fixed my question.
+2026-09-17,4,Headphones,Customer support answered fast and fixed my question. Setup was easy and it feels well built.
+2026-09-17,3,Charger,"Decent product, a few small annoyances."
+2026-09-18,5,Speaker,"Love it, using it every day."
+2026-09-18,5,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-09-18,3,Smart Watch,Average quality for the price.
+2026-09-18,5,Speaker,"Setup was easy and it feels well built. Love it, using it every day."
+2026-09-18,3,Charger,"Decent product, a few small annoyances."
+2026-09-19,5,Headphones,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-09-19,4,Speaker,"Excellent value for the price, would buy again."
+2026-09-19,5,Speaker,"Love it, using it every day. Excellent value for the price, would buy again."
+2026-09-19,5,Headphones,"Love it, using it every day."
+2026-09-19,5,Speaker,Great sound quality and very comfortable. Customer support answered fast and fixed my question.
+2026-09-20,4,Headphones,"Exactly as described, works perfectly."
+2026-09-20,5,Headphones,Setup was easy and it feels well built. Great sound quality and very comfortable.
+2026-09-20,3,Headphones,Average quality for the price.
+2026-09-20,4,Headphones,"Excellent value for the price, would buy again. Exactly as described, works perfectly."
+2026-09-20,5,Charger,"Excellent value for the price, would buy again."
+2026-09-20,1,Headphones,"Waited three weeks for a replacement that never came. It's okay, does what it says but nothing special."
+2026-09-20,4,Headphones,"Exactly as described, works perfectly."
+2026-09-21,2,Smart Watch,"Used to last days, now I have to charge it constantly. It's okay, does what it says but nothing special."
+2026-09-21,2,Smart Watch,Battery drains overnight even when I'm not using it. Average quality for the price.
+2026-09-21,3,Speaker,"Decent product, a few small annoyances."
+2026-09-21,5,Smart Watch,"Exactly as described, works perfectly."
+2026-09-21,3,Smart Watch,Average quality for the price.
+2026-09-22,4,Smart Watch,Setup was easy and it feels well built.
+2026-09-22,5,Charger,"Love it, using it every day."
+2026-09-22,4,Speaker,Customer support answered fast and fixed my question.
+2026-09-22,4,Speaker,"Excellent value for the price, would buy again. Customer support answered fast and fixed my question."
+2026-09-22,4,Speaker,"Excellent value for the price, would buy again. Great sound quality and very comfortable."
+2026-09-22,5,Headphones,"Love it, using it every day."
+2026-09-22,5,Smart Watch,Great sound quality and very comfortable.
+2026-09-22,5,Speaker,Setup was easy and it feels well built.
+2026-09-22,4,Smart Watch,Setup was easy and it feels well built.
+2026-09-23,5,Headphones,"Love it, using it every day."
+2026-09-23,4,Speaker,Setup was easy and it feels well built.
+2026-09-23,4,Charger,"Excellent value for the price, would buy again."
+2026-09-23,5,Smart Watch,Setup was easy and it feels well built.
+2026-09-23,5,Headphones,Great sound quality and very comfortable.
+2026-09-23,5,Headphones,"Love it, using it every day."
+2026-09-23,5,Headphones,"Exactly as described, works perfectly. Great sound quality and very comfortable."
+2026-09-24,5,Smart Watch,"Excellent value for the price, would buy again."
+2026-09-24,5,Speaker,"Excellent value for the price, would buy again."
+2026-09-24,2,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-09-24,5,Headphones,"Love it, using it every day."
+2026-09-24,5,Smart Watch,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-09-25,4,Speaker,Great sound quality and very comfortable.
+2026-09-25,2,Headphones,"Waited three weeks for a replacement that never came. Decent product, a few small annoyances."
+2026-09-25,5,Smart Watch,"Great sound quality and very comfortable. Exactly as described, works perfectly."
+2026-09-25,4,Headphones,Customer support answered fast and fixed my question.
+2026-09-25,1,Headphones,Way overpriced for what you get.
+2026-09-26,2,Smart Watch,Battery drains overnight even when I'm not using it.
+2026-09-26,1,Speaker,"Not worth the money, competitors are cheaper."
+2026-09-26,4,Speaker,"Excellent value for the price, would buy again."
+2026-09-26,3,Speaker,"It's okay, does what it says but nothing special."
+2026-09-26,2,Speaker,"Battery barely lasts half a day since the update. It's okay, does what it says but nothing special."
+2026-09-26,3,Charger,Average quality for the price.
+2026-09-26,5,Headphones,"Love it, using it every day. Great sound quality and very comfortable."
+2026-09-26,1,Smart Watch,"Used to last days, now I have to charge it constantly."
+2026-09-27,5,Smart Watch,"Exactly as described, works perfectly."
+2026-09-27,5,Headphones,"Excellent value for the price, would buy again. Love it, using it every day."
+2026-09-27,5,Charger,"Love it, using it every day."
+2026-09-28,5,Charger,Customer support answered fast and fixed my question.
+2026-09-28,4,Headphones,Great sound quality and very comfortable.
+2026-09-28,5,Headphones,"Excellent value for the price, would buy again."
+2026-09-28,4,Speaker,"Customer support answered fast and fixed my question. Love it, using it every day."
+2026-09-28,5,Headphones,Setup was easy and it feels well built.
+2026-09-29,1,Speaker,The strap broke within weeks.
+2026-09-29,5,Headphones,"Love it, using it every day. Customer support answered fast and fixed my question."
+2026-09-29,2,Smart Watch,"Battery barely lasts half a day since the update. Decent product, a few small annoyances."
+2026-09-29,3,Charger,Average quality for the price.
+2026-09-29,4,Headphones,"Exactly as described, works perfectly."
+2026-09-30,5,Speaker,Setup was easy and it feels well built.
